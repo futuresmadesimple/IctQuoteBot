@@ -16,7 +16,8 @@
   ],
   "posted": [
     "17:00",
-    "17:30"
+    "17:30",
+    "18:00"
   ],
   "log": [
     {
@@ -28,6 +29,11 @@
       "time": "2025-10-19T17:40:03.176971-04:00",
       "text": "If you\u2019re not comfortable losing money consistently, this isn\u2019t for you.",
       "id": "1980026179995185419"
+    },
+    {
+      "time": "2025-10-19T18:01:19.917639-04:00",
+      "text": "Limit the number of trades you take\u2014the more frequency, the more likely you're gonna lose.",
+      "id": "1980031535077093630"
     }
   ]
 }
