@@ -22,6 +22,7 @@ from zoneinfo import ZoneInfo
 ET = ZoneInfo("America/New_York")
 def now_et() -> datetime: return datetime.now(ET)
 
+POSTED_FILE = Path("posted_tweets.txt")
 TWEETS_FILE = Path(os.getenv("TWEETS_FILE", "tweets.txt"))
 POST_STATE  = Path(os.getenv("POST_STATE_FILE", ".post_state.json"))
 SLOTS_PER_DAY = int(os.getenv("SLOTS_PER_DAY", "12"))
