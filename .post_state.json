@@ -15,13 +15,19 @@
     "22:30"
   ],
   "posted": [
-    "17:00"
+    "17:00",
+    "17:30"
   ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
       "text": "Risk management is how you survive and build longevity in trading.",
       "id": "1980023187154059479"
+    },
+    {
+      "time": "2025-10-19T17:40:03.176971-04:00",
+      "text": "If you\u2019re not comfortable losing money consistently, this isn\u2019t for you.",
+      "id": "1980026179995185419"
     }
   ]
 }
