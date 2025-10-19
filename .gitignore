@@ -1,0 +1,5 @@
+# (Example) ignore all txt by default
+*.txt
+# but keep these two tracked
+!tweets.txt
+!posted_tweets.txt
