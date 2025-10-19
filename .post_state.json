@@ -18,7 +18,8 @@
     "17:00",
     "17:30",
     "18:00",
-    "18:30"
+    "18:30",
+    "19:00"
   ],
   "log": [
     {
@@ -40,6 +41,11 @@
       "time": "2025-10-19T18:34:52.728756-04:00",
       "text": "If you can\u2019t cover small ends consistently, you won\u2019t handle big leverage.",
       "id": "1980039977451876639"
+    },
+    {
+      "time": "2025-10-19T19:00:50.039435-04:00",
+      "text": "Rushing to profit is the surest, fastest way to lose money.",
+      "id": "1980046509249904678"
     }
   ]
 }
