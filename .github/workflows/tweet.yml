@@ -1,0 +1,46 @@
+name: X Post-Only Bot (12/day, 6am–10pm ET)
+
+on:
+  schedule:
+    # Every ~20m covering 06:00–22:59 ET (10:00–02:59 UTC split)
+    - cron: "*/20 10-23 * * *"
+    - cron: "*/20 0-2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Prevent overlaps if a run takes longer than 20m
+concurrency:
+  group: post-bot
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run post bot
+        env:
+          # Writer creds (same names you already use)
+          X_API_KEY:       ${{ secrets.X_API_KEY }}
+          X_API_SECRET:    ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN:  ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+
+          # Optional tuning (matches your bot defaults)
+          SLOTS_PER_DAY: "12"
+          START_HOUR:    "7"    # 07:00 ET
+          END_HOUR:      "21"   # 21:59 ET window
+          WINDOW_MIN:    "30"   # 30-minute posting window
+        run: python -u bot_run.py
+
+      - name: Commit state & tweets file (only if changed)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .post_state.json tweets.txt || true
+          git diff --cached --quiet || git commit -m "post-bot: update state/content"
+          git push || true
