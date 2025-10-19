@@ -154,13 +154,34 @@ def _rand_minute_between(start: datetime, end: datetime) -> datetime:
     delta_min = max(1, int((end - start).total_seconds() // 60))
     return start + timedelta(minutes=random.randrange(delta_min))
 
-def plan_slots_for_today() -> List[str]:
+def plan_slots_for_today(min_gap_minutes: int = 30) -> List[str]:
+    """Plan SLOTS_PER_DAY random ET times with a hard minimum gap between any two times."""
     today = now_et().date()
     start = datetime(today.year, today.month, today.day, START_HOUR, 0, tzinfo=ET)
     end   = datetime(today.year, today.month, today.day, END_HOUR, 59, tzinfo=ET)
-    picks = set()
-    while len(picks) < SLOTS_PER_DAY:
-        picks.add(_rand_minute_between(start, end).replace(second=0, microsecond=0))
+
+    span_minutes = int((end - start).total_seconds() // 60) + 1  # inclusive
+    max_slots = (span_minutes // min_gap_minutes) + 1
+    if SLOTS_PER_DAY > max_slots:
+        raise ValueError(
+            f"Window {START_HOUR:02d}:00–{END_HOUR:02d}:59 ET too narrow for "
+            f"{SLOTS_PER_DAY} slots at {min_gap_minutes}-minute gaps (max {max_slots}). "
+            "Widen the window or reduce SLOTS_PER_DAY."
+        )
+
+    # Build minute-resolution candidate list
+    candidates = [start + timedelta(minutes=i) for i in range(span_minutes)]
+    picks: List[datetime] = []
+
+    # Randomly pick times; after each pick, remove all candidates within ±min_gap_minutes
+    while candidates and len(picks) < SLOTS_PER_DAY:
+        t = candidates.pop(random.randrange(len(candidates)))
+        t = t.replace(second=0, microsecond=0)
+        picks.append(t)
+        cutoff = timedelta(minutes=min_gap_minutes)
+        candidates = [c for c in candidates if abs(c - t) >= cutoff]
+
+    # Should always reach SLOTS_PER_DAY given the feasibility check above
     return sorted(dt.strftime("%H:%M") for dt in picks)
 
 def find_due_slot(state: dict) -> Optional[str]:
