@@ -3,7 +3,7 @@ name: X Post-Only Bot (12/day, 6am–10pm ET)
 on:
   schedule:
     # Every ~20m covering 06:00–22:59 ET (10:00–02:59 UTC split)
-    - cron: "*/20 6-23 * * *"
+    - cron: "*/12 6-23 * * *"
   workflow_dispatch:
 
 permissions:
