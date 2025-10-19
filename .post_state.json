@@ -17,7 +17,8 @@
   "posted": [
     "17:00",
     "17:30",
-    "18:00"
+    "18:00",
+    "18:30"
   ],
   "log": [
     {
@@ -34,6 +35,11 @@
       "time": "2025-10-19T18:01:19.917639-04:00",
       "text": "Limit the number of trades you take\u2014the more frequency, the more likely you're gonna lose.",
       "id": "1980031535077093630"
+    },
+    {
+      "time": "2025-10-19T18:34:52.728756-04:00",
+      "text": "If you can\u2019t cover small ends consistently, you won\u2019t handle big leverage.",
+      "id": "1980039977451876639"
     }
   ]
 }
