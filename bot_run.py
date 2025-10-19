@@ -61,6 +61,16 @@ def write_lines(path: Path, lines: List[str]) -> None:
     text = "\n".join(lines).rstrip() + ("\n" if lines else "")
     path.write_text(text, encoding="utf-8")
 
+def append_posted(raw_block: List[str], *, status: str, tweet_id: Optional[str] = None) -> None:
+    ts = now_et().strftime("%Y-%m-%d %H:%M:%S %Z")
+    with POSTED_FILE.open("a", encoding="utf-8") as f:
+        header = f"# {ts} | {status}" + (f" | id={tweet_id}" if tweet_id else "")
+        f.write(header + "\n")
+        for line in raw_block:
+            f.write(line)
+        if not (len(raw_block) and raw_block[-1].strip() == "---"):
+            f.write("---\n")
+
 def load_json(path: Path, default):
     if not path.exists():
         return default
@@ -178,29 +188,36 @@ def post_to_x(text: str) -> Optional[str]:
         return None
 
 def post_random_block(state: dict, blocks: List[Dict[str, object]]) -> Optional[str]:
-    """Pick a random block to post. On duplicate, delete it and try another at random."""
-    if not blocks: return None
+    """Pick a random block to post. On duplicate, log it and try another at random."""
+    if not blocks:
+        return None
 
     while blocks:
         idx = random.randrange(len(blocks))
         blk = blocks[idx]
-        text, raw = str(blk["text"]), list(blk["raw"])
+        text = str(blk["text"])
+        raw = list(blk["raw"])
+
         print(f"Trying RANDOM block #{idx+1}/{len(blocks)}: {text[:120]}{'…' if len(text)>120 else ''}")
         res = post_to_x(text)
 
+        # DUPLICATE → log to posted_tweets.txt, remove from source, keep looping
         if res == "DUPLICATE":
+            append_posted(raw, status="DUPLICATE")
             delete_block(TWEETS_FILE, raw)
             del blocks[idx]
             continue
 
+        # SUCCESS → log to posted_tweets.txt with tweet id, remove from source, record in state, exit
         if isinstance(res, str) and res.isdigit():
+            append_posted(raw, status="POSTED", tweet_id=res)
             delete_block(TWEETS_FILE, raw)
             del blocks[idx]
-            state.setdefault("log", []).append({"time": now_et().isoformat(), "text": text})
+            state.setdefault("log", []).append({"time": now_et().isoformat(), "text": text, "id": res})
             save_state(state)
             return res
 
-        # Any other failure: stop to avoid burning through content
+        # Any other failure → stop (don’t burn through content)
         return None
 
     return None
