@@ -1,0 +1,5 @@
+---
+This is the first example post. Replace me.
+---
+This is the second example post. Replace me too.
+---
