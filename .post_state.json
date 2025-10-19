@@ -15,13 +15,19 @@
     "21:02"
   ],
   "posted": [
-    "11:25"
+    "11:25",
+    "12:02"
   ],
   "log": [
     {
       "time": "2025-10-19T11:50:22.565286-04:00",
       "text": "This is the second example post. Replace me too.",
       "id": "1979938181014237601"
+    },
+    {
+      "time": "2025-10-19T12:17:35.295794-04:00",
+      "text": "Don't broadcast your plans\u2014it only gives people a timeline to taunt you.",
+      "id": "1979945029142561215"
     }
   ]
 }
