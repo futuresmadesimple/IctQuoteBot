@@ -26,9 +26,9 @@ POSTED_FILE = Path("posted_tweets.txt")
 TWEETS_FILE = Path(os.getenv("TWEETS_FILE", "tweets.txt"))
 POST_STATE  = Path(os.getenv("POST_STATE_FILE", ".post_state.json"))
 SLOTS_PER_DAY = int(os.getenv("SLOTS_PER_DAY", "12"))
-START_HOUR    = int(os.getenv("START_HOUR", "7"))
-END_HOUR      = int(os.getenv("END_HOUR", "21"))
-WINDOW_MIN    = int(os.getenv("WINDOW_MIN", "30"))
+START_HOUR    = int(os.getenv("START_HOUR", "6"))
+END_HOUR      = int(os.getenv("END_HOUR", "23"))
+WINDOW_MIN    = int(os.getenv("WINDOW_MIN", "40"))
 
 # ---- Tweepy ensure & writer client ----
 def _ensure_tweepy():
