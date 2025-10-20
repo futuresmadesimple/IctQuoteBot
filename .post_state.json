@@ -22,7 +22,8 @@
     "15:12",
     "15:51",
     "17:20",
-    "17:50"
+    "17:50",
+    "18:22"
   ],
   "log": [
     {
@@ -94,6 +95,11 @@
       "time": "2025-10-20T18:01:15.181018-04:00",
       "text": "Losses are normal\u2014control them; over time you\u2019ll make more money than you lose.",
       "id": "1980393903086882899"
+    },
+    {
+      "time": "2025-10-20T18:36:12.872663-04:00",
+      "text": "You can\u2019t force price to do what you want\u2014you can only align with it.",
+      "id": "1980402701403042265"
     }
   ]
 }
