@@ -235,8 +235,6 @@ Measure entry to target time, drawdown, and how long the trade took.
 ---
 Don’t blow your account because you can’t accept that you were wrong.
 ---
-Use your journal for positive, constructive notes—no toxic thinking.
----
 Be honest in back testing—poor expectations create backwards results.
 ---
 You’ll grow your understanding as the characteristics repeat over and over again.
