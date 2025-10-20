@@ -281,8 +281,6 @@ Avoid chasing parabolic equity surges.
 ---
 Reduce leverage when taking losses.
 ---
-Be patient with drawdown recovery—don’t try to get it back in one trade.
----
 Take the loss, go home for the day, and see what happens tomorrow.
 ---
 Avoid large risk for large wins.
