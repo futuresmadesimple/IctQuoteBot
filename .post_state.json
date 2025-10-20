@@ -14,7 +14,9 @@
     "18:22",
     "19:39"
   ],
-  "posted": [],
+  "posted": [
+    "07:40"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -45,6 +47,11 @@
       "time": "2025-10-19T19:41:05.955379-04:00",
       "text": "Control the amount of money you put up\u2014and control yourself.",
       "id": "1980056642319253731"
+    },
+    {
+      "time": "2025-10-20T07:40:44.425368-04:00",
+      "text": "Study what led to you being wrong so you can stop falling victim to it.",
+      "id": "1980237745948680553"
     }
   ]
 }
