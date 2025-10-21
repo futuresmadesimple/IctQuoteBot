@@ -387,8 +387,6 @@ Wait for most, not all, of your tools to align, then act.
 ---
 Let the highest timeframe show where price is reaching; time entries with the mid and low frames.
 ---
-Measured moves matter: replicate prior swings to anticipate distance.
----
 Your lowest timeframe is for entries; your mid timeframe is for management; your highest builds the premise.
 ---
 When structure shifts, expect retracements—use them for new entries.
