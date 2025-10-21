@@ -14,7 +14,9 @@
     "21:05",
     "21:49"
   ],
-  "posted": [],
+  "posted": [
+    "07:15"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -95,6 +97,11 @@
       "time": "2025-10-20T19:40:54.561993-04:00",
       "text": "Align seasonal tendency, quarterly shift, and monthly bias with a weekly profile.",
       "id": "1980418982432874555"
+    },
+    {
+      "time": "2025-10-21T07:26:33.974778-04:00",
+      "text": "Be willing to lose\u2014and lose a lot\u2014early on. It's part of it.",
+      "id": "1980596566793629764"
     }
   ]
 }
