@@ -18,7 +18,8 @@
     "07:30",
     "09:44",
     "13:01",
-    "15:02"
+    "15:02",
+    "16:30"
   ],
   "log": [
     {
@@ -150,6 +151,11 @@
       "time": "2025-10-22T15:24:40.879189-04:00",
       "text": "TradingView, demo platforms, and back-testing tools are for building habits\u2014not gambling.",
       "id": "1981079276247273480"
+    },
+    {
+      "time": "2025-10-22T16:35:18.510567-04:00",
+      "text": "Adding more money after a bad week isn\u2019t the answer\u2014discipline is.",
+      "id": "1981097050029666619"
     }
   ]
 }
