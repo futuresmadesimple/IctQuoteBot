@@ -359,8 +359,6 @@ Use three timeframes per style: position (monthly/weekly/daily), swing (daily/4h
 ---
 The highest-probability trades align with the higher-timeframe direction.
 ---
-Trend, reversal, or consolidation—your market profile frames every decision.
----
 Price never moves in a straight line; it swings, consolidates, and swings again.
 ---
 Between entry and target lies the gray area—get comfortable living there.
