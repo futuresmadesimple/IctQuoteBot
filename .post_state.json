@@ -17,7 +17,8 @@
   "posted": [
     "07:30",
     "09:44",
-    "13:01"
+    "13:01",
+    "15:02"
   ],
   "log": [
     {
@@ -144,6 +145,11 @@
       "time": "2025-10-22T13:30:15.628215-04:00",
       "text": "Avoid chasing parabolic equity surges.",
       "id": "1981050481313988771"
+    },
+    {
+      "time": "2025-10-22T15:24:40.879189-04:00",
+      "text": "TradingView, demo platforms, and back-testing tools are for building habits\u2014not gambling.",
+      "id": "1981079276247273480"
     }
   ]
 }
