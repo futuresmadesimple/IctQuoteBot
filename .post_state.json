@@ -14,7 +14,9 @@
     "20:41",
     "21:55"
   ],
-  "posted": [],
+  "posted": [
+    "12:33"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -160,6 +162,11 @@
       "time": "2025-10-22T18:37:25.679506-04:00",
       "text": "Trend, reversal, or consolidation\u2014your market profile frames every decision.",
       "id": "1981127782496157746"
+    },
+    {
+      "time": "2025-10-23T12:45:48.832264-04:00",
+      "text": "If you don't have the understanding of liquidity, your trading is going to suffer from it.",
+      "id": "1981401683541246382"
     }
   ]
 }
