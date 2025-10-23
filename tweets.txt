@@ -225,8 +225,6 @@ Power of Three: accumulation, manipulation, distribution—day after day.
 ---
 Stay with one framework and build a large sample set before you touch live funds.
 ---
-When am I ready for live funds? It begins with proof of concept.
----
 Manage to keep risk below three percent maximum.
 ---
 Formulate everything you’re doing to get in sync with the monthly bias.
