@@ -15,7 +15,8 @@
     "21:55"
   ],
   "posted": [
-    "12:33"
+    "12:33",
+    "13:15"
   ],
   "log": [
     {
@@ -167,6 +168,11 @@
       "time": "2025-10-23T12:45:48.832264-04:00",
       "text": "If you don't have the understanding of liquidity, your trading is going to suffer from it.",
       "id": "1981401683541246382"
+    },
+    {
+      "time": "2025-10-23T13:33:00.806624-04:00",
+      "text": "Strip the chart down and focus on the four price levels: the open, the high, the low, and the close.",
+      "id": "1981413561919230090"
     }
   ]
 }
