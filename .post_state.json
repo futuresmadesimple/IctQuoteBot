@@ -17,7 +17,8 @@
   "posted": [
     "07:37",
     "09:21",
-    "11:30"
+    "11:30",
+    "16:41"
   ],
   "log": [
     {
@@ -199,6 +200,11 @@
       "time": "2025-10-24T11:34:39.217808-04:00",
       "text": "Use time and price together: act when your level and the kill zone line up.",
       "id": "1981746163553374518"
+    },
+    {
+      "time": "2025-10-24T16:50:51.672282-04:00",
+      "text": "There is no perfect trader and no perfect system\u2014losses are part of this business.",
+      "id": "1981825739780473086"
     }
   ]
 }
