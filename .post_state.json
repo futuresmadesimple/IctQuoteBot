@@ -14,7 +14,9 @@
     "21:01",
     "21:42"
   ],
-  "posted": [],
+  "posted": [
+    "07:37"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -180,6 +182,11 @@
       "time": "2025-10-23T16:37:41.194104-04:00",
       "text": "When am I ready for live funds? It begins with proof of concept.",
       "id": "1981460036481163288"
+    },
+    {
+      "time": "2025-10-24T07:42:14.215315-04:00",
+      "text": "Weekly \u2018power of three\u2019: accumulate below the open, manipulate around it, distribute away from it.",
+      "id": "1981687673988296982"
     }
   ]
 }
