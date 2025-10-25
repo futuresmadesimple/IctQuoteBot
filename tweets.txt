@@ -249,8 +249,6 @@ Ignore unprofitable traders’ advice on risk.
 ---
 Weather series of consecutive losses; every trader suffers drawdown.
 ---
-Multiple losses do not prove your method is broken.
----
 Stick to the method and reduce risk after losses.
 ---
 Six years in—you finally grow into yourself as a trader.
