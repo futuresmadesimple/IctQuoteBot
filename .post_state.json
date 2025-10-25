@@ -15,7 +15,8 @@
     "20:51"
   ],
   "posted": [
-    "07:45"
+    "07:45",
+    "08:45"
   ],
   "log": [
     {
@@ -207,6 +208,11 @@
       "time": "2025-10-25T07:48:27.748982-04:00",
       "text": "We\u2019re not trying to predict the reaction to the news\u2014we wait for it to hit.",
       "id": "1982051628556402943"
+    },
+    {
+      "time": "2025-10-25T09:02:58.472967-04:00",
+      "text": "It\u2019s not about being right\u2014it\u2019s about being aligned with the order flow.",
+      "id": "1982070380186440126"
     }
   ]
 }
