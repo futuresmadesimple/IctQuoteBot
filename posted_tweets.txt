@@ -91,3 +91,5 @@ Multiple losses do not prove your method is broken.---
 Order blocks can offer high-accuracy, low-drawdown entries.---
 # 2025-10-25 13:48:25 EDT | POSTED | id=1982142214273925558
 Trading without stops will make you lose money faster.---
+# 2025-10-25 14:46:19 EDT | POSTED | id=1982156785419985202
+The highest-probability trades align with the higher-timeframe direction.---
