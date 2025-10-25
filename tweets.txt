@@ -189,8 +189,6 @@ You don’t need perfection to be profitable; pursue alignment with order flow.
 ---
 Daily highs and lows offer the potential for draws on liquidity—buy stops above, sell stops below.
 ---
-Trading without stops will make you lose money faster.
----
 The algorithm seeks sell-side liquidity below old lows and buy-side liquidity above old highs.
 ---
 It cannot see your particular stop; the broker can, but the delivery algorithm cannot.
