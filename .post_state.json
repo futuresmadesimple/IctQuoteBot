@@ -14,7 +14,9 @@
     "20:21",
     "20:51"
   ],
-  "posted": [],
+  "posted": [
+    "07:45"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -200,6 +202,11 @@
       "time": "2025-10-24T16:50:51.672282-04:00",
       "text": "There is no perfect trader and no perfect system\u2014losses are part of this business.",
       "id": "1981825739780473086"
+    },
+    {
+      "time": "2025-10-25T07:48:27.748982-04:00",
+      "text": "We\u2019re not trying to predict the reaction to the news\u2014we wait for it to hit.",
+      "id": "1982051628556402943"
     }
   ]
 }
