@@ -17,7 +17,8 @@
   "posted": [
     "07:15",
     "10:00",
-    "10:49"
+    "10:49",
+    "13:08"
   ],
   "log": [
     {
@@ -259,6 +260,11 @@
       "time": "2025-10-26T10:49:15.867543-04:00",
       "text": "We\u2019re not gambling\u2014we\u2019re hunting high-probability scenarios.",
       "id": "1982459516613709836"
+    },
+    {
+      "time": "2025-10-26T13:29:01.019090-04:00",
+      "text": "Zero heat entries come from planning, not luck.",
+      "id": "1982499719827066932"
     }
   ]
 }
