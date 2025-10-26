@@ -353,8 +353,6 @@ Weekly bias 101: in bullish conditions, the low of the week usually forms betwee
 ---
 Plot the Sunday opening price across the whole week—then let the market tell you overbought/oversold without indicators.
 ---
-Trading above the weekly open in a bearish week = overbought. Trading below the open in a bullish week = oversold.
----
 Below the weekly open is where smart money accumulates when the higher time frame is bullish.
 ---
 Above the weekly open is where smart money distributes when the higher time frame is bearish.

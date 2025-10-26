@@ -14,7 +14,9 @@
     "20:42",
     "21:29"
   ],
-  "posted": [],
+  "posted": [
+    "07:15"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -240,6 +242,11 @@
       "time": "2025-10-25T16:32:20.623282-04:00",
       "text": "I hate losing\u2014but I reduce risk after a loss instead of swinging harder.",
       "id": "1982183467648520683"
+    },
+    {
+      "time": "2025-10-26T07:25:47.399518-04:00",
+      "text": "Trading above the weekly open in a bearish week = overbought. Trading below the open in a bullish week = oversold.",
+      "id": "1982408310717366379"
     }
   ]
 }
