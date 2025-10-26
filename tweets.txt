@@ -285,8 +285,6 @@ Equal highs and equal lows are the easiest liquidity to spot.
 ---
 Above equal highs sit buy stops; below equal lows sit sell stops.
 ---
-We’re not gambling—we’re hunting high-probability scenarios.
----
 Price moves to where orders reside—above old highs and below old lows.
 ---
 OTE: the classic 62%–70.5% retracement is a powerful framework.
