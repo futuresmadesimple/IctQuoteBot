@@ -97,3 +97,5 @@ The highest-probability trades align with the higher-timeframe direction.---
 I hate losing—but I reduce risk after a loss instead of swinging harder.---
 # 2025-10-26 07:25:47 EDT | POSTED | id=1982408310717366379
 Trading above the weekly open in a bearish week = overbought. Trading below the open in a bullish week = oversold.---
+# 2025-10-26 10:01:15 EDT | POSTED | id=1982447435952648552
+Institutions hunt counterparties—orders resting above highs and below lows.---

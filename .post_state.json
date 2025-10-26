@@ -15,7 +15,8 @@
     "21:29"
   ],
   "posted": [
-    "07:15"
+    "07:15",
+    "10:00"
   ],
   "log": [
     {
@@ -247,6 +248,11 @@
       "time": "2025-10-26T07:25:47.399518-04:00",
       "text": "Trading above the weekly open in a bearish week = overbought. Trading below the open in a bullish week = oversold.",
       "id": "1982408310717366379"
+    },
+    {
+      "time": "2025-10-26T10:01:15.600072-04:00",
+      "text": "Institutions hunt counterparties\u2014orders resting above highs and below lows.",
+      "id": "1982447435952648552"
     }
   ]
 }
