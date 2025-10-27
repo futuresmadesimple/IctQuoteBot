@@ -62,7 +62,13 @@ def write_lines(path: Path, lines: List[str]) -> None:
     path.write_text(text, encoding="utf-8")
 
 def append_posted(raw_block: List[str], *, status: str, tweet_id: Optional[str] = None) -> None:
+    """
+    Append a human log entry to posted_tweets.txt and, on a successful POSTED,
+    append one JSON line to posted.jsonl with {id, et, text}.
+    """
     ts = now_et().strftime("%Y-%m-%d %H:%M:%S %Z")
+
+    # --- human-readable log (keeps your current behavior) ---
     with POSTED_FILE.open("a", encoding="utf-8") as f:
         header = f"# {ts} | {status}" + (f" | id={tweet_id}" if tweet_id else "")
         f.write(header + "\n")
@@ -70,6 +76,18 @@ def append_posted(raw_block: List[str], *, status: str, tweet_id: Optional[str] 
             f.write(line)
         if not (len(raw_block) and raw_block[-1].strip() == "---"):
             f.write("---\n")
+
+    # --- machine-readable JSON Lines log (used by self-quote) ---
+    # Only record real posted tweets (skip duplicates/failures).
+    if status == "POSTED" and tweet_id and str(tweet_id).isdigit():
+        try:
+            # Rebuild the normalized text like load_blocks() does
+            normalized_text = " ".join(s.strip() for s in raw_block if s.strip() and s.strip() != "---")
+            with POSTED_JSONL.open("a", encoding="utf-8") as jf:
+                jf.write(json.dumps({"id": str(tweet_id), "et": ts, "text": normalized_text}, ensure_ascii=False) + "\n")
+        except Exception as e:
+            print(f"WARN: could not append to posted.jsonl: {e}")
+
 
 def load_json(path: Path, default):
     if not path.exists():
