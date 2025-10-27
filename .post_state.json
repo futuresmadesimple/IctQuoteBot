@@ -15,7 +15,8 @@
     "21:32"
   ],
   "posted": [
-    "11:14"
+    "11:14",
+    "13:10"
   ],
   "log": [
     {
@@ -287,6 +288,11 @@
       "time": "2025-10-27T11:39:25.678829-04:00",
       "text": "For beginners, short-term or day trading gives the most useful feedback; skip scalping at first.",
       "id": "1982834528709472758"
+    },
+    {
+      "time": "2025-10-27T13:15:04.169040-04:00",
+      "text": "Wait for the market to show its hand\u2014then trade with it.",
+      "id": "1982858597672620449"
     }
   ]
 }
