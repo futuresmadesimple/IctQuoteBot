@@ -14,7 +14,9 @@
     "19:56",
     "21:32"
   ],
-  "posted": [],
+  "posted": [
+    "11:14"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -280,6 +282,11 @@
       "time": "2025-10-26T19:42:03.269078-04:00",
       "text": "Don\u2019t blow your account because you can\u2019t accept that you were wrong.",
       "id": "1982593597783363604"
+    },
+    {
+      "time": "2025-10-27T11:39:25.678829-04:00",
+      "text": "For beginners, short-term or day trading gives the most useful feedback; skip scalping at first.",
+      "id": "1982834528709472758"
     }
   ]
 }

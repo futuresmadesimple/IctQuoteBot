@@ -313,8 +313,6 @@ Control risk first; profits come later.
 ---
 Decide who you are—position trader, swing trader, short-term, day trader, or scalper—before you decide what to do.
 ---
-For beginners, short-term or day trading gives the most useful feedback; skip scalping at first.
----
 Use three timeframes per style: position (monthly/weekly/daily), swing (daily/4h/1h), short-term (4h/1h/15m), day (1h/15m/5m).
 ---
 Price never moves in a straight line; it swings, consolidates, and swings again.
