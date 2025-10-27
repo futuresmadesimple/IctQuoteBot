@@ -26,7 +26,7 @@ jobs:
           X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
           X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
-          SELFQUOTE_SKIP_RECENT: ${{ vars.SELFQUOTE_SKIP_RECENT || '8' }}
-          SELFQUOTE_MIN_AGE_HOURS: ${{ vars.SELFQUOTE_MIN_AGE_HOURS || '36' }}
+          SELFQUOTE_SKIP_RECENT: 0
+          SELFQUOTE_MIN_AGE_HOURS: 0
         run: python self_quote.py
 
