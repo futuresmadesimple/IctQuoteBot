@@ -16,7 +16,8 @@
   ],
   "posted": [
     "11:14",
-    "13:10"
+    "13:10",
+    "13:20"
   ],
   "log": [
     {
@@ -293,6 +294,11 @@
       "time": "2025-10-27T13:15:04.169040-04:00",
       "text": "Wait for the market to show its hand\u2014then trade with it.",
       "id": "1982858597672620449"
+    },
+    {
+      "time": "2025-10-27T13:21:28.817237-04:00",
+      "text": "Ask: where would everyone else\u2019s trade idea fail?",
+      "id": "1982860211019772009"
     }
   ]
 }

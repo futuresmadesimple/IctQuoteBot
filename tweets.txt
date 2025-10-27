@@ -271,8 +271,6 @@ If you can’t succeed on demo, you won’t succeed live.
 ---
 Play in the sandbox—build good habits on a demo account.
 ---
-Ask: where would everyone else’s trade idea fail?
----
 Equal highs and equal lows are the easiest liquidity to spot.
 ---
 Above equal highs sit buy stops; below equal lows sit sell stops.
