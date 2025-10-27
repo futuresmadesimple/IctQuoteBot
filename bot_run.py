@@ -22,6 +22,7 @@ ET = ZoneInfo("America/New_York")
 def now_et() -> datetime: return datetime.now(ET)
 
 POSTED_FILE = Path("posted_tweets.txt")
+POSTED_JSONL = Path("posted.jsonl")  # append {id, time, text} per post
 TWEETS_FILE = Path(os.getenv("TWEETS_FILE", "tweets.txt"))
 POST_STATE  = Path(os.getenv("POST_STATE_FILE", ".post_state.json"))
 SLOTS_PER_DAY = int(os.getenv("SLOTS_PER_DAY", "6"))
@@ -207,7 +208,12 @@ def post_to_x(text: str) -> Optional[str]:
     client = get_writer_client()
     try:
         resp = client.create_tweet(text=text)
-        return (getattr(resp, "data", {}) or {}).get("id")
+        # Normalize the returned ID to a string for logging (JSONL)
+        tid = None
+        if hasattr(resp, "data") and resp.data:
+            tid = str(resp.data.get("id")) if "id" in resp.data else None
+        print(f"Posted tweet id={tid}")
+        return tid
     except tweepy.Forbidden as e:
         msg = str(e).lower()
         if "duplicate content" in msg or "duplicate" in msg:
