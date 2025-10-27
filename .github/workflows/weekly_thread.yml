@@ -28,3 +28,14 @@ jobs:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
           THREAD_MAX_TWEETS: '5'
         run: python weekly_thread.py
+
+      - name: Commit updated threads and state
+        if: ${{ success() }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add threads.txt .thread_state.json
+          git commit -m "chore: remove used thread block [skip ci]" || echo "No changes"
+          git push
+
