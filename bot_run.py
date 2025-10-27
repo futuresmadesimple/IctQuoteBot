@@ -264,13 +264,14 @@ def post_random_block(state: dict, blocks: List[Dict[str, object]]) -> Optional[
             del blocks[idx]
             continue
 
-        # SUCCESS → log to posted_tweets.txt with tweet id, remove from source, record in state, exit
+        # SUCCESS → log to posted_tweets.txt + posted.jsonl with tweet id, remove from source, record in state, exit
         if isinstance(res, str) and res.isdigit():
             append_posted(raw, status="POSTED", tweet_id=res)
             delete_block(TWEETS_FILE, raw)
             del blocks[idx]
             state.setdefault("log", []).append({"time": now_et().isoformat(), "text": text, "id": res})
             save_state(state)
+            print(f'Posted: "{text}"')  # echo exact content that was posted
             return res
 
         # Any other failure → stop (don’t burn through content)
