@@ -20,7 +20,8 @@
     "13:11",
     "14:30",
     "15:07",
-    "15:38"
+    "15:38",
+    "17:30"
   ],
   "log": [
     {
@@ -342,6 +343,11 @@
       "time": "2025-10-28T15:41:47.391463-04:00",
       "text": "Price never moves in a straight line; it swings, consolidates, and swings again.",
       "id": "1983257908923285702"
+    },
+    {
+      "time": "2025-10-28T17:30:34.480124-04:00",
+      "text": "You don\u2019t need perfection to be profitable; pursue alignment with order flow.",
+      "id": "1983285285480698091"
     }
   ]
 }

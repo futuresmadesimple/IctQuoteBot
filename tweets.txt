@@ -173,8 +173,6 @@ Monthly highs and lows, weekly highs and lows, daily highs and lows, and finally
 ---
 Remember this: to and through.
 ---
-You don’t need perfection to be profitable; pursue alignment with order flow.
----
 Daily highs and lows offer the potential for draws on liquidity—buy stops above, sell stops below.
 ---
 The algorithm seeks sell-side liquidity below old lows and buy-side liquidity above old highs.
