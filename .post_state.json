@@ -14,7 +14,9 @@
     "20:51",
     "21:25"
   ],
-  "posted": [],
+  "posted": [
+    "07:26"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -305,6 +307,11 @@
       "time": "2025-10-27T19:28:04.813363-04:00",
       "text": "Build mini study journal cases\u2014not live trades with real money.",
       "id": "1982952468892856544"
+    },
+    {
+      "time": "2025-10-28T07:26:53.108774-04:00",
+      "text": "Funded margin isn\u2019t psychological readiness.",
+      "id": "1983133362114937107"
     }
   ]
 }
