@@ -21,7 +21,8 @@
     "14:30",
     "15:07",
     "15:38",
-    "17:30"
+    "17:30",
+    "18:20"
   ],
   "log": [
     {
@@ -348,6 +349,11 @@
       "time": "2025-10-28T17:30:34.480124-04:00",
       "text": "You don\u2019t need perfection to be profitable; pursue alignment with order flow.",
       "id": "1983285285480698091"
+    },
+    {
+      "time": "2025-10-28T18:38:02.502704-04:00",
+      "text": "Avoid looking for hot-hand gurus.",
+      "id": "1983302264040112501"
     }
   ]
 }
