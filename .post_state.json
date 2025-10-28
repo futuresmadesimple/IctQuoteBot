@@ -19,7 +19,8 @@
     "09:46",
     "13:11",
     "14:30",
-    "15:07"
+    "15:07",
+    "15:38"
   ],
   "log": [
     {
@@ -336,6 +337,11 @@
       "time": "2025-10-28T15:26:37.696147-04:00",
       "text": "Wait for most, not all, of your tools to align, then act.",
       "id": "1983254093385671109"
+    },
+    {
+      "time": "2025-10-28T15:41:47.391463-04:00",
+      "text": "Price never moves in a straight line; it swings, consolidates, and swings again.",
+      "id": "1983257908923285702"
     }
   ]
 }
