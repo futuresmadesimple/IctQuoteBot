@@ -15,7 +15,8 @@
     "21:12"
   ],
   "posted": [
-    "07:24"
+    "07:24",
+    "11:40"
   ],
   "log": [
     {
@@ -352,6 +353,11 @@
       "time": "2025-10-29T07:28:54.579250-04:00",
       "text": "Use three timeframes per style: position (monthly/weekly/daily), swing (daily/4h/1h), short-term (4h/1h/15m), day (1h/15m/5m).",
       "id": "1983496259374604459"
+    },
+    {
+      "time": "2025-10-29T11:42:57.086199-04:00",
+      "text": "Stop pretending to be somebody you\u2019re not and do the work.",
+      "id": "1983560191141372052"
     }
   ]
 }
