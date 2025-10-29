@@ -26,11 +26,9 @@ SKIP_RECENT = int(os.getenv("SELFQUOTE_SKIP_RECENT", "8"))
 MIN_AGE_HOURS = int(os.getenv("SELFQUOTE_MIN_AGE_HOURS", "36"))
 
 INTRO = [
-    "From the archive:",
     "Worth another read:",
     "Daily reminder:",
     "Save this one:",
-    "Back to basics:",
 ]
 
 def get_writer_client() -> tweepy.Client:
