@@ -287,8 +287,6 @@ Decide who you are—position trader, swing trader, short-term, day trader, or s
 ---
 Project targets with measured swings and legs—and exit before the exact objective.
 ---
-Let the highest timeframe show where price is reaching; time entries with the mid and low frames.
----
 Your lowest timeframe is for entries; your mid timeframe is for management; your highest builds the premise.
 ---
 When structure shifts, expect retracements—use them for new entries.
