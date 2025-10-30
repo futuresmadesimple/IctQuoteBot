@@ -165,8 +165,6 @@ Remember this: to and through.
 ---
 Daily highs and lows offer the potential for draws on liquidity—buy stops above, sell stops below.
 ---
-The algorithm seeks sell-side liquidity below old lows and buy-side liquidity above old highs.
----
 It cannot see your particular stop; the broker can, but the delivery algorithm cannot.
 ---
 Focus right away just trading the New York session—it’s going to be the easiest one.

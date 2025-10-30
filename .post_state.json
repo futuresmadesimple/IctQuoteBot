@@ -19,7 +19,8 @@
     "11:44",
     "12:47",
     "14:09",
-    "14:50"
+    "14:50",
+    "16:10"
   ],
   "log": [
     {
@@ -406,6 +407,11 @@
       "time": "2025-10-30T15:25:32.066582-04:00",
       "text": "Focus on previous day\u2019s highs and lows, previous week\u2019s highs and lows, previous month\u2019s highs and lows.",
       "id": "1983978593815326786"
+    },
+    {
+      "time": "2025-10-30T16:37:23.088252-04:00",
+      "text": "The algorithm seeks sell-side liquidity below old lows and buy-side liquidity above old highs.",
+      "id": "1983996675556250044"
     }
   ]
 }

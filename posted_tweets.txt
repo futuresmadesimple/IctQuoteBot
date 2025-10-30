@@ -159,3 +159,5 @@ Formulate everything you’re doing to get in sync with the monthly bias.---
 You only need to find one setup and then be done for the day.---
 # 2025-10-30 15:25:32 EDT | POSTED | id=1983978593815326786
 Focus on previous day’s highs and lows, previous week’s highs and lows, previous month’s highs and lows.---
+# 2025-10-30 16:37:23 EDT | POSTED | id=1983996675556250044
+The algorithm seeks sell-side liquidity below old lows and buy-side liquidity above old highs.---
