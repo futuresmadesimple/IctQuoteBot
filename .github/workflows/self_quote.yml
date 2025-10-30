@@ -30,3 +30,14 @@ jobs:
           SELFQUOTE_MIN_AGE_HOURS: ${{ vars.SELFQUOTE_MIN_AGE_HOURS || '36' }}
         run: python self_quote.py
 
+      - name: Commit updated posted.jsonl
+        if: ${{ success() }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add posted.jsonl
+          git commit -m "chore: rotate self-quote pool [skip ci]" || echo "No changes"
+          git push
+
+
