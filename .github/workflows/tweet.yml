@@ -47,7 +47,7 @@ jobs:
           SLOTS_PER_DAY: "12"
           START_HOUR:    "7"    # 07:00 ET
           END_HOUR:      "21"   # 21:59 ET window
-          WINDOW_MIN:    "30"   # 30-minute posting window
+          WINDOW_MIN:    "75"   # 30-minute posting window
         run: python -u bot_run.py
 
       - name: Commit state & tweets file (only if changed)
