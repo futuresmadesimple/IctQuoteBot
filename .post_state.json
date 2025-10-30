@@ -14,7 +14,9 @@
     "20:44",
     "21:49"
   ],
-  "posted": [],
+  "posted": [
+    "07:46"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -375,6 +377,11 @@
       "time": "2025-10-29T19:43:52.171354-04:00",
       "text": "Between entry and target lies the gray area\u2014get comfortable living there.",
       "id": "1983681218139816044"
+    },
+    {
+      "time": "2025-10-30T07:50:22.461366-04:00",
+      "text": "Taking partials reduces risk while paying you.",
+      "id": "1983864049004925380"
     }
   ]
 }
