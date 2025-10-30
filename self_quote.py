@@ -60,6 +60,14 @@ def read_posted_jsonl() -> list[dict]:
             pass
     return rows
 
+def write_posted_jsonl(rows: list[dict]) -> None:
+    """Rewrite posted.jsonl atomically with the given rows."""
+    tmp = POSTED_JSONL.with_suffix(".tmp")
+    with tmp.open("w", encoding="utf-8") as jf:
+        for r in rows:
+            jf.write(json.dumps(r, ensure_ascii=False) + "\n")
+    tmp.replace(POSTED_JSONL)
+
 def eligible_pool(rows: list[dict]) -> list[dict]:
     """Return rows excluding the most recent N and filtering by min age if available."""
     if len(rows) <= SKIP_RECENT:
@@ -98,7 +106,13 @@ def main() -> int:
     client = get_writer_client()
     resp = client.create_tweet(text=intro, quote_tweet_id=tid)
     print(f"Quoted id: {tid} -> {getattr(resp, 'data', {})}")
+
+    # Remove the quoted item from posted.jsonl
+    new_rows = [r for r in rows if str(r.get("id", "")) != tid]
+    write_posted_jsonl(new_rows)
+    print(f"Removed quoted id {tid} from posted.jsonl (remaining: {len(new_rows)})")
     return 0
+
 
 if __name__ == "__main__":
     raise SystemExit(main())
