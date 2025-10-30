@@ -163,3 +163,5 @@ Focus on previous day’s highs and lows, previous week’s highs and lows, prev
 The algorithm seeks sell-side liquidity below old lows and buy-side liquidity above old highs.---
 # 2025-10-30 17:30:05 EDT | POSTED | id=1984009940391125155
 Cast forth a vision: where are you going, what’s your objective, what’s your goal?---
+# 2025-10-30 18:34:42 EDT | POSTED | id=1984026202877661689
+Pre-plan your exit before the expansion begins; don’t negotiate with a fast market after it’s moving.---
