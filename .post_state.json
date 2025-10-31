@@ -19,7 +19,8 @@
     "08:31",
     "09:07",
     "11:30",
-    "13:03"
+    "13:03",
+    "14:17"
   ],
   "log": [
     {
@@ -446,6 +447,11 @@
       "time": "2025-10-31T13:35:40.443322-04:00",
       "text": "Outline when you want to buy and when you want to go short\u2014put it on paper.",
       "id": "1984313334406304160"
+    },
+    {
+      "time": "2025-10-31T14:50:44.157262-04:00",
+      "text": "Learn to locate high-probability liquidity pools.",
+      "id": "1984332224406134836"
     }
   ]
 }
