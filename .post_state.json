@@ -14,7 +14,9 @@
     "17:46",
     "20:56"
   ],
-  "posted": [],
+  "posted": [
+    "07:37"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -415,6 +417,11 @@
       "time": "2025-10-30T18:34:42.948406-04:00",
       "text": "Pre-plan your exit before the expansion begins; don\u2019t negotiate with a fast market after it\u2019s moving.",
       "id": "1984026202877661689"
+    },
+    {
+      "time": "2025-10-31T07:41:59.673476-04:00",
+      "text": "Control risk first; profits come later.",
+      "id": "1984224328104485283"
     }
   ]
 }
