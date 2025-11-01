@@ -18,7 +18,8 @@
     "07:03",
     "08:37",
     "09:36",
-    "12:28"
+    "12:28",
+    "13:41"
   ],
   "log": [
     {
@@ -490,6 +491,11 @@
       "time": "2025-11-01T12:38:10.059481-04:00",
       "text": "Approach your life as a business and run your life as a business.",
       "id": "1984661250127905130"
+    },
+    {
+      "time": "2025-11-01T13:50:51.841820-04:00",
+      "text": "Build plateaus in equity by scaling down after losses, then scaling back up.",
+      "id": "1984679544968655255"
     }
   ]
 }
