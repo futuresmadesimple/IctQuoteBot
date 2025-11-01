@@ -19,7 +19,8 @@
     "08:37",
     "09:36",
     "12:28",
-    "13:41"
+    "13:41",
+    "14:18"
   ],
   "log": [
     {
@@ -496,6 +497,11 @@
       "time": "2025-11-01T13:50:51.841820-04:00",
       "text": "Build plateaus in equity by scaling down after losses, then scaling back up.",
       "id": "1984679544968655255"
+    },
+    {
+      "time": "2025-11-01T14:41:24.118054-04:00",
+      "text": "Remember this: to and through.",
+      "id": "1984692263268573440"
     }
   ]
 }

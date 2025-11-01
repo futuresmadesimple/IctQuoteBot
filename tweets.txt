@@ -143,8 +143,6 @@ Treat losses like normal life setbacks, not grand catastrophes.
 ---
 What if you stop worrying about losing and focus on how to manage the money and the risk.
 ---
-Remember this: to and through.
----
 Daily highs and lows offer the potential for draws on liquidity—buy stops above, sell stops below.
 ---
 It cannot see your particular stop; the broker can, but the delivery algorithm cannot.
