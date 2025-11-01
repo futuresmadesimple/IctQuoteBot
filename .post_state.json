@@ -15,7 +15,8 @@
     "20:15"
   ],
   "posted": [
-    "07:03"
+    "07:03",
+    "08:37"
   ],
   "log": [
     {
@@ -472,6 +473,11 @@
       "time": "2025-11-01T07:23:19.345468-04:00",
       "text": "Small capital to secure a funded account beats depositing $10,000 you might blow.",
       "id": "1984582016961229242"
+    },
+    {
+      "time": "2025-11-01T09:04:47.072403-04:00",
+      "text": "Weekly bias 101: in bullish conditions, the low of the week usually forms between Sunday\u2019s open and Wednesday\u2019s New York open.",
+      "id": "1984607550663508244"
     }
   ]
 }
