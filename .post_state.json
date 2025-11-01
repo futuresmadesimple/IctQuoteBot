@@ -17,7 +17,8 @@
   "posted": [
     "07:03",
     "08:37",
-    "09:36"
+    "09:36",
+    "12:28"
   ],
   "log": [
     {
@@ -484,6 +485,11 @@
       "time": "2025-11-01T09:36:27.820932-04:00",
       "text": "Time of day, in concert with bias, puts you in the highest order of probability.",
       "id": "1984615523057856665"
+    },
+    {
+      "time": "2025-11-01T12:38:10.059481-04:00",
+      "text": "Approach your life as a business and run your life as a business.",
+      "id": "1984661250127905130"
     }
   ]
 }
