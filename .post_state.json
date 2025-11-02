@@ -19,7 +19,8 @@
     "08:25",
     "11:23",
     "13:29",
-    "14:22"
+    "14:22",
+    "15:14"
   ],
   "log": [
     {
@@ -551,6 +552,11 @@
       "time": "2025-11-02T14:28:25.947568-05:00",
       "text": "Price is fractal\u2014the same formations repeat on every timeframe.",
       "id": "1985066486780789031"
+    },
+    {
+      "time": "2025-11-02T15:31:47.212465-05:00",
+      "text": "Controlling risk is more important than the entry signal or the exit.",
+      "id": "1985082430433403167"
     }
   ]
 }
