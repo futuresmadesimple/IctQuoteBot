@@ -195,8 +195,6 @@ Play in the sandbox—build good habits on a demo account.
 ---
 Equal highs and equal lows are the easiest liquidity to spot.
 ---
-Above equal highs sit buy stops; below equal lows sit sell stops.
----
 Price moves to where orders reside—above old highs and below old lows.
 ---
 After a liquidity sweep, price often reverses—plan for that.
