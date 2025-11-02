@@ -22,7 +22,8 @@
     "14:22",
     "15:14",
     "16:15",
-    "16:49"
+    "16:49",
+    "17:29"
   ],
   "log": [
     {
@@ -569,6 +570,11 @@
       "time": "2025-11-02T16:50:23.576669-05:00",
       "text": "You\u2019re not only trading with money\u2014you\u2019re trading with mental capital.",
       "id": "1985102212243083473"
+    },
+    {
+      "time": "2025-11-02T17:32:38.844362-05:00",
+      "text": "Daily highs and lows offer the potential for draws on liquidity\u2014buy stops above, sell stops below.",
+      "id": "1985112845948797160"
     }
   ]
 }
