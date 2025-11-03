@@ -20,7 +20,8 @@
     "09:16",
     "10:57",
     "13:46",
-    "14:16"
+    "14:16",
+    "15:01"
   ],
   "log": [
     {
@@ -607,6 +608,11 @@
       "time": "2025-11-03T14:25:35.548496-05:00",
       "text": "Plot the Sunday opening price across the whole week\u2014then let the market tell you overbought/oversold without indicators.",
       "id": "1985428159848714436"
+    },
+    {
+      "time": "2025-11-03T15:38:33.603300-05:00",
+      "text": "Reduce leverage when taking losses.",
+      "id": "1985446522813583552"
     }
   ]
 }
