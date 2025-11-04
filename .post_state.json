@@ -16,7 +16,8 @@
   ],
   "posted": [
     "08:19",
-    "09:13"
+    "09:13",
+    "09:58"
   ],
   "log": [
     {
@@ -623,6 +624,11 @@
       "time": "2025-11-04T09:44:08.538996-05:00",
       "text": "Don't change trading approaches\u2014stick to one method and master it.",
       "id": "1985719718540689564"
+    },
+    {
+      "time": "2025-11-04T10:40:24.002694-05:00",
+      "text": "Stay with one framework and build a large sample set before you touch live funds.",
+      "id": "1985733876258656644"
     }
   ]
 }
