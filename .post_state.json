@@ -19,7 +19,8 @@
     "08:25",
     "09:48",
     "10:26",
-    "11:31"
+    "11:31",
+    "12:04"
   ],
   "log": [
     {
@@ -681,6 +682,11 @@
       "time": "2025-11-05T11:53:30.319673-05:00",
       "text": "Measure entry to target time, drawdown, and how long the trade took.",
       "id": "1986114661691899945"
+    },
+    {
+      "time": "2025-11-05T12:37:00.282178-05:00",
+      "text": "You cannot allow monthly ends to plague your decision making in trading.",
+      "id": "1986125608619757701"
     }
   ]
 }
