@@ -59,8 +59,6 @@ List out all of your monthly ends—the bills you have to make every single mont
 ---
 Price action models are useless to anyone that hasn't really trained, studied, and did back testing.
 ---
-Most fair value gaps will not completely close on re-delivery of price.
----
 You are not expected to be in every possible trade idea or price swing.
 ---
 You have to have rules: when should I do something, when should I expect a setup to form?
