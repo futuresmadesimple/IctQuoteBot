@@ -21,7 +21,8 @@
     "12:24",
     "13:15",
     "14:01",
-    "17:03"
+    "17:03",
+    "17:57"
   ],
   "log": [
     {
@@ -743,6 +744,11 @@
       "time": "2025-11-06T17:38:11.628631-05:00",
       "text": "Think like a business owner, not a gambler.",
       "id": "1986563793221263653"
+    },
+    {
+      "time": "2025-11-06T18:29:18.481115-05:00",
+      "text": "If you chose this path, it needs to be second only to family.",
+      "id": "1986576656492806144"
     }
   ]
 }
