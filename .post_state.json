@@ -15,7 +15,8 @@
     "20:42"
   ],
   "posted": [
-    "07:38"
+    "07:38",
+    "08:23"
   ],
   "log": [
     {
@@ -747,6 +748,11 @@
       "time": "2025-11-07T08:34:47.264859-05:00",
       "text": "Profitability beats being \u2018right\u2019 every time.",
       "id": "1986789428472193043"
+    },
+    {
+      "time": "2025-11-07T08:49:54.116824-05:00",
+      "text": "Don't change strategies while you're in a trade.",
+      "id": "1986793232089415971"
     }
   ]
 }
