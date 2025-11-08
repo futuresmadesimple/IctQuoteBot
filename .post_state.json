@@ -17,7 +17,8 @@
   "posted": [
     "07:00",
     "08:02",
-    "09:02"
+    "09:02",
+    "09:52"
   ],
   "log": [
     {
@@ -809,6 +810,11 @@
       "time": "2025-11-08T09:31:37.975245-05:00",
       "text": "Price action models are useless to anyone that hasn't really trained, studied, and did back testing.",
       "id": "1987166121884275101"
+    },
+    {
+      "time": "2025-11-08T10:29:24.529518-05:00",
+      "text": "After a liquidity sweep, price often reverses\u2014plan for that.",
+      "id": "1987180661695013232"
     }
   ]
 }

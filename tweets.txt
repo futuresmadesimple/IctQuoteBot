@@ -117,8 +117,6 @@ Equal highs and equal lows are the easiest liquidity to spot.
 ---
 Price moves to where orders reside—above old highs and below old lows.
 ---
-After a liquidity sweep, price often reverses—plan for that.
----
 Take partials—you never know if the market will reach your objective.
 ---
 Reduce risk as you get paid—manage the trader as much as the trade.
