@@ -15,7 +15,8 @@
     "21:05"
   ],
   "posted": [
-    "07:00"
+    "07:00",
+    "08:02"
   ],
   "log": [
     {
@@ -797,6 +798,11 @@
       "time": "2025-11-08T08:04:51.044334-05:00",
       "text": "Protect your access to the funded account\u2014follow the rules.",
       "id": "1987144282436972933"
+    },
+    {
+      "time": "2025-11-08T08:37:00.775177-05:00",
+      "text": "Context + liquidity + timing = a predictable scalp.",
+      "id": "1987152376248283295"
     }
   ]
 }
