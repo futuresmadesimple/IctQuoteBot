@@ -16,7 +16,8 @@
   ],
   "posted": [
     "07:00",
-    "08:02"
+    "08:02",
+    "09:02"
   ],
   "log": [
     {
@@ -803,6 +804,11 @@
       "time": "2025-11-08T08:37:00.775177-05:00",
       "text": "Context + liquidity + timing = a predictable scalp.",
       "id": "1987152376248283295"
+    },
+    {
+      "time": "2025-11-08T09:31:37.975245-05:00",
+      "text": "Price action models are useless to anyone that hasn't really trained, studied, and did back testing.",
+      "id": "1987166121884275101"
     }
   ]
 }
