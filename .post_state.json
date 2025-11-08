@@ -14,7 +14,9 @@
     "20:00",
     "21:05"
   ],
-  "posted": [],
+  "posted": [
+    "07:00"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -790,6 +792,11 @@
       "time": "2025-11-07T18:28:42.611694-05:00",
       "text": "You will lose fortunes\u2014expect the pain; it won\u2019t kill you.",
       "id": "1986938893963301229"
+    },
+    {
+      "time": "2025-11-08T08:04:51.044334-05:00",
+      "text": "Protect your access to the funded account\u2014follow the rules.",
+      "id": "1987144282436972933"
     }
   ]
 }
