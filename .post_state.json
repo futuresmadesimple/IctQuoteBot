@@ -17,7 +17,8 @@
   "posted": [
     "07:22",
     "08:00",
-    "08:54"
+    "08:54",
+    "12:19"
   ],
   "log": [
     {
@@ -854,6 +855,11 @@
       "time": "2025-11-09T09:30:33.628164-05:00",
       "text": "The global interest rates are the fundamental driver that sets the tone for long-term macro price movement.",
       "id": "1987528239821295894"
+    },
+    {
+      "time": "2025-11-09T12:28:33.929485-05:00",
+      "text": "Play in the sandbox\u2014build good habits on a demo account.",
+      "id": "1987573036275626181"
     }
   ]
 }
