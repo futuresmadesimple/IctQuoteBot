@@ -22,7 +22,8 @@
     "13:51",
     "14:28",
     "15:32",
-    "16:31"
+    "16:31",
+    "17:56"
   ],
   "log": [
     {
@@ -884,6 +885,11 @@
       "time": "2025-11-09T16:40:38.601861-05:00",
       "text": "If it doesn\u2019t set up in your window, it\u2019s not your trade.",
       "id": "1987636473693143312"
+    },
+    {
+      "time": "2025-11-09T18:11:15.987829-05:00",
+      "text": "London close often marks the opposite end of the daily range.",
+      "id": "1987659279768146012"
     }
   ]
 }
