@@ -18,7 +18,8 @@
     "07:22",
     "08:00",
     "08:54",
-    "12:19"
+    "12:19",
+    "13:51"
   ],
   "log": [
     {
@@ -860,6 +861,11 @@
       "time": "2025-11-09T12:28:33.929485-05:00",
       "text": "Play in the sandbox\u2014build good habits on a demo account.",
       "id": "1987573036275626181"
+    },
+    {
+      "time": "2025-11-09T13:51:12.165968-05:00",
+      "text": "Dealers and or brokers do not set or control currency prices.",
+      "id": "1987593832653853138"
     }
   ]
 }
