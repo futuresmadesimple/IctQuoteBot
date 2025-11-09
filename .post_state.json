@@ -14,7 +14,9 @@
     "19:54",
     "20:42"
   ],
-  "posted": [],
+  "posted": [
+    "07:22"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -835,6 +837,11 @@
       "time": "2025-11-08T18:27:16.511532-05:00",
       "text": "Income is your only working resource unless you add income streams.",
       "id": "1987300920515043552"
+    },
+    {
+      "time": "2025-11-09T08:04:58.500163-05:00",
+      "text": "Markets can become self-medication\u2014don\u2019t chase the dopamine hit.",
+      "id": "1987506701613125885"
     }
   ]
 }
