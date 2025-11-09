@@ -15,7 +15,8 @@
     "20:42"
   ],
   "posted": [
-    "07:22"
+    "07:22",
+    "08:00"
   ],
   "log": [
     {
@@ -842,6 +843,11 @@
       "time": "2025-11-09T08:04:58.500163-05:00",
       "text": "Markets can become self-medication\u2014don\u2019t chase the dopamine hit.",
       "id": "1987506701613125885"
+    },
+    {
+      "time": "2025-11-09T08:37:52.828638-05:00",
+      "text": "FOMC and NFP share the same script: stop raid, then expansion.",
+      "id": "1987514982481670339"
     }
   ]
 }

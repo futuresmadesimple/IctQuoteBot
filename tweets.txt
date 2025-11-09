@@ -261,8 +261,6 @@ London close often marks the opposite end of the daily range.
 ---
 Always view TradingView through the lens of New York time, wherever you live.
 ---
-FOMC and NFP share the same script: stop raid, then expansion.
----
 Price won’t blast from every swept low—timing matters.
 ---
 Three entry tools matter: stop runs, order blocks, and optimal trade entry.
