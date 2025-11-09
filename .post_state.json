@@ -21,7 +21,8 @@
     "12:19",
     "13:51",
     "14:28",
-    "15:32"
+    "15:32",
+    "16:31"
   ],
   "log": [
     {
@@ -878,6 +879,11 @@
       "time": "2025-11-09T15:32:21.852147-05:00",
       "text": "Equal highs and equal lows are the easiest liquidity to spot.",
       "id": "1987619290728616394"
+    },
+    {
+      "time": "2025-11-09T16:40:38.601861-05:00",
+      "text": "If it doesn\u2019t set up in your window, it\u2019s not your trade.",
+      "id": "1987636473693143312"
     }
   ]
 }
