@@ -187,8 +187,6 @@ All boats rise with the tide—if euro rallies, reasonably expect pound to rally
 ---
 Experience is going to guide you on how many candles really make up a consolidation.
 ---
-Target the buy stops above the relative equal high or original consolidation—this completes a market maker buy model.
----
 Backtesting and studying old data makes every successful trader better.
 ---
 Smart money buys sell stops and sells to buy stops.
