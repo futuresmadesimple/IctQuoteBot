@@ -15,7 +15,8 @@
     "20:14"
   ],
   "posted": [
-    "07:07"
+    "07:07",
+    "08:56"
   ],
   "log": [
     {
@@ -887,6 +888,11 @@
       "time": "2025-11-10T07:26:47.517576-05:00",
       "text": "In a bullish environment, expect a stop-run low before the expansion higher.",
       "id": "1987859480336347458"
+    },
+    {
+      "time": "2025-11-10T09:13:42.580576-05:00",
+      "text": "If you\u2019re chasing every candle, you\u2019re the liquidity.",
+      "id": "1987886387056771263"
     }
   ]
 }
