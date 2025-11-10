@@ -23,7 +23,8 @@
     "14:02",
     "15:05",
     "15:42",
-    "16:19"
+    "16:19",
+    "18:23"
   ],
   "log": [
     {
@@ -935,6 +936,11 @@
       "time": "2025-11-10T16:29:02.762398-05:00",
       "text": "Wednesday is the line in the sand: once price breaks the weekly open, it should expand away from it.",
       "id": "1987995943094935823"
+    },
+    {
+      "time": "2025-11-10T18:32:21.605350-05:00",
+      "text": "Taking profits is personal\u2014you'll spend the rest of your life mastering that and never arriving at mastery.",
+      "id": "1988026976062636538"
     }
   ]
 }
