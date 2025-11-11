@@ -61,8 +61,6 @@ What if you stop worrying about losing and focus on how to manage the money and 
 ---
 It cannot see your particular stop; the broker can, but the delivery algorithm cannot.
 ---
-Focus right away just trading the New York session—it’s going to be the easiest one.
----
 Build good habits and remove the opportunity to fall into bad habits.
 ---
 Be honest in back testing—poor expectations create backwards results.
