@@ -20,7 +20,8 @@
     "11:30",
     "12:58",
     "14:39",
-    "16:06"
+    "16:06",
+    "16:41"
   ],
   "log": [
     {
@@ -967,6 +968,11 @@
       "time": "2025-11-11T16:11:39.474392-05:00",
       "text": "Think completely opposite of retail.",
       "id": "1988353955093717447"
+    },
+    {
+      "time": "2025-11-11T16:42:03.016705-05:00",
+      "text": "Sometimes you're going to mess up, sometimes it's going to be wrong, and sometimes you're going to get stopped out\u2014and it is what it is.",
+      "id": "1988361603482591669"
     }
   ]
 }
