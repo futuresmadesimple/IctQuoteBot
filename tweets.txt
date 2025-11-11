@@ -205,8 +205,6 @@ Bias first; entries second.
 ---
 Relative equal highs and lows are liquidity, not support or resistance.
 ---
-The algorithm moves price when the time windows increase flows.
----
 Traders don’t push price; the algorithm does.
 ---
 Expect distribution into buy stops above the original consolidation in a buy model.
