@@ -21,7 +21,8 @@
     "12:17",
     "12:53",
     "13:42",
-    "14:53"
+    "14:53",
+    "16:44"
   ],
   "log": [
     {
@@ -1023,6 +1024,11 @@
       "time": "2025-11-12T15:14:48.775463-05:00",
       "text": "What if you stop worrying about losing and focus on how to manage the money and the risk.",
       "id": "1988702037333123094"
+    },
+    {
+      "time": "2025-11-12T16:53:56.944901-05:00",
+      "text": "Write down what your life costs each month; make a budget.",
+      "id": "1988726985883832452"
     }
   ]
 }
