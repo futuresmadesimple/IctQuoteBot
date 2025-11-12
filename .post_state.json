@@ -14,7 +14,9 @@
     "21:05",
     "21:41"
   ],
-  "posted": [],
+  "posted": [
+    "08:22"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -980,6 +982,11 @@
       "time": "2025-11-11T18:50:43.708788-05:00",
       "text": "The algorithm moves price when the time windows increase flows.",
       "id": "1988393986504237534"
+    },
+    {
+      "time": "2025-11-12T08:44:12.547542-05:00",
+      "text": "Your lowest timeframe is for entries; your mid timeframe is for management; your highest builds the premise.",
+      "id": "1988603738756452387"
     }
   ]
 }
