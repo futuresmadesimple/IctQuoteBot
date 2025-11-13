@@ -14,7 +14,9 @@
     "20:09",
     "20:40"
   ],
-  "posted": [],
+  "posted": [
+    "07:53"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -1025,6 +1027,11 @@
       "time": "2025-11-12T18:32:39.418019-05:00",
       "text": "Reduce risk as you get paid\u2014manage the trader as much as the trade.",
       "id": "1988751826536026273"
+    },
+    {
+      "time": "2025-11-13T08:10:11.600097-05:00",
+      "text": "You have no idea what it feels like to grow an account from $10K to $50K to $100K until you do it.",
+      "id": "1988957566227960052"
     }
   ]
 }
