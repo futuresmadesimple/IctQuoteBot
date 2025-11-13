@@ -187,8 +187,6 @@ Traders don’t push price; the algorithm does.
 ---
 Expect distribution into buy stops above the original consolidation in a buy model.
 ---
-Expect pullbacks to order blocks or optimal trade entry inside the kill zones.
----
 After weekly objectives are met early, expect consolidation or deeper retracement.
 ---
 Always view TradingView through the lens of New York time, wherever you live.
