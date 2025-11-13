@@ -179,8 +179,6 @@ Time and price theory blends the calendar clock with liquidity targets.
 ---
 Relative equal highs and lows are liquidity, not support or resistance.
 ---
-Traders don’t push price; the algorithm does.
----
 Expect distribution into buy stops above the original consolidation in a buy model.
 ---
 After weekly objectives are met early, expect consolidation or deeper retracement.
