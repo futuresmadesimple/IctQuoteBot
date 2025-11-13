@@ -22,7 +22,8 @@
     "12:13",
     "13:57",
     "15:06",
-    "15:50"
+    "15:50",
+    "17:12"
   ],
   "log": [
     {
@@ -1074,6 +1075,11 @@
       "time": "2025-11-13T15:52:10.479941-05:00",
       "text": "Expect distribution into buy stops above the original consolidation in a buy model.",
       "id": "1989073827716886674"
+    },
+    {
+      "time": "2025-11-13T17:13:18.080098-05:00",
+      "text": "When I refer to power 3 what I'm referring to is the three components that make up generic price action: the accumulation phase, a manipulation stage, and then an arranged expansion and then a distribution.",
+      "id": "1989094243646701674"
     }
   ]
 }
