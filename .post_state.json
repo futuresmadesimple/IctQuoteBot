@@ -14,7 +14,9 @@
     "20:22",
     "21:34"
   ],
-  "posted": [],
+  "posted": [
+    "07:18"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -1075,6 +1077,11 @@
       "time": "2025-11-13T18:32:08.957837-05:00",
       "text": "If you can\u2019t succeed on demo, you won\u2019t succeed live.",
       "id": "1989114086534127637"
+    },
+    {
+      "time": "2025-11-14T07:26:34.764208-05:00",
+      "text": "Consider one percent per setup\u2014that means one percent of your total account equity\u2014and gradually working your way up to 2 percent if this meets your risk tolerance.",
+      "id": "1989308978271006922"
     }
   ]
 }

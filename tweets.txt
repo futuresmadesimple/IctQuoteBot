@@ -115,8 +115,6 @@ You cannot escape it—you're going to lose money, you're going to lose on trade
 ---
 While you develop and practice in your demo account, it's important for you to implement strict risk controls.
 ---
-Consider one percent per setup—that means one percent of your total account equity—and gradually working your way up to 2 percent if this meets your risk tolerance.
----
 It's important not to try to swing for homeruns or take larger risk to try to grow your account faster—it's not necessary, it's reckless.
 ---
 Over leverage will impede your development and drastically decrease your chances of seeing responsible equity growth.
