@@ -147,8 +147,6 @@ SMT: you only consider using it when a key level should be influencing price.
 ---
 SMT is not a timing tool; it’s a confirmation tool.
 ---
-Go into the charts looking to disprove what I’m saying—and you’re going to shock yourself.
----
 Pad and pen—sit down, take notes, and study.
 ---
 There’s no better way to learn than applying the model to a live chart and watching it unfold.
