@@ -169,8 +169,6 @@ Price won’t blast from every swept low—timing matters.
 ---
 Three entry tools matter: stop runs, order blocks, and optimal trade entry.
 ---
-If you’re developing, stand aside on FOMC—the whipsaw will paralyze you.
----
 Put your faith in time and price, not indicators.
 ---
 Before strong directional moves, opposing stops are taken, then price is allowed to deliver.
