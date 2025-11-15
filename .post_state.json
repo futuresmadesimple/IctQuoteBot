@@ -20,7 +20,8 @@
     "08:35",
     "11:15",
     "12:55",
-    "14:22"
+    "14:22",
+    "16:26"
   ],
   "log": [
     {
@@ -1157,6 +1158,11 @@
       "time": "2025-11-15T14:28:53.874147-05:00",
       "text": "What\u2019s your routine\u2014daily and weekly\u2014and how do you handle drawdown?",
       "id": "1989777646129971500"
+    },
+    {
+      "time": "2025-11-15T16:39:44.797326-05:00",
+      "text": "Study the relationship of time and price; time comes first.",
+      "id": "1989810575296036880"
     }
   ]
 }
