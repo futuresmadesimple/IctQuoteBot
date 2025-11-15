@@ -21,7 +21,8 @@
     "11:15",
     "12:55",
     "14:22",
-    "16:26"
+    "16:26",
+    "17:39"
   ],
   "log": [
     {
@@ -1163,6 +1164,11 @@
       "time": "2025-11-15T16:39:44.797326-05:00",
       "text": "Study the relationship of time and price; time comes first.",
       "id": "1989810575296036880"
+    },
+    {
+      "time": "2025-11-15T17:40:56.483767-05:00",
+      "text": "When a level is swept, ask \u201cwhere is the opposing liquidity?\u201d and aim there.",
+      "id": "1989825975488504153"
     }
   ]
 }
