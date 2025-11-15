@@ -167,8 +167,6 @@ Three entry tools matter: stop runs, order blocks, and optimal trade entry.
 ---
 Put your faith in time and price, not indicators.
 ---
-Before strong directional moves, opposing stops are taken, then price is allowed to deliver.
----
 London and New York kill zones frame the highest-probability entries.
 ---
 Don’t obsess over the exact top; catch the meat of the move and move on.
