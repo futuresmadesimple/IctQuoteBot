@@ -15,7 +15,8 @@
     "21:15"
   ],
   "posted": [
-    "07:29"
+    "07:29",
+    "08:00"
   ],
   "log": [
     {
@@ -1127,6 +1128,11 @@
       "time": "2025-11-15T07:57:09.535087-05:00",
       "text": "While you develop and practice in your demo account, it's important for you to implement strict risk controls.",
       "id": "1989679061803962730"
+    },
+    {
+      "time": "2025-11-15T08:22:43.584088-05:00",
+      "text": "Trust yourself; don\u2019t outsource risk decisions to strangers.",
+      "id": "1989685496046342405"
     }
   ]
 }
