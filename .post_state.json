@@ -22,7 +22,8 @@
     "12:55",
     "14:22",
     "16:26",
-    "17:39"
+    "17:39",
+    "18:17"
   ],
   "log": [
     {
@@ -1169,6 +1170,11 @@
       "time": "2025-11-15T17:40:56.483767-05:00",
       "text": "When a level is swept, ask \u201cwhere is the opposing liquidity?\u201d and aim there.",
       "id": "1989825975488504153"
+    },
+    {
+      "time": "2025-11-15T18:27:35.046344-05:00",
+      "text": "Don\u2019t tell friends and family about your trades; protect your mindset.",
+      "id": "1989837713445720101"
     }
   ]
 }
