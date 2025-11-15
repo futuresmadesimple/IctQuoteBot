@@ -19,7 +19,8 @@
     "08:00",
     "08:35",
     "11:15",
-    "12:55"
+    "12:55",
+    "14:22"
   ],
   "log": [
     {
@@ -1151,6 +1152,11 @@
       "time": "2025-11-15T13:16:17.895541-05:00",
       "text": "Cut exposure when you\u2019re in drawdown; that\u2019s your staying power.",
       "id": "1989759375850799318"
+    },
+    {
+      "time": "2025-11-15T14:28:53.874147-05:00",
+      "text": "What\u2019s your routine\u2014daily and weekly\u2014and how do you handle drawdown?",
+      "id": "1989777646129971500"
     }
   ]
 }
