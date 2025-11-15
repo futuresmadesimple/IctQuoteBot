@@ -14,7 +14,9 @@
     "20:25",
     "21:15"
   ],
-  "posted": [],
+  "posted": [
+    "07:29"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -1120,6 +1122,11 @@
       "time": "2025-11-14T18:31:40.250618-05:00",
       "text": "Don\u2019t quit\u2014study, practice, and let time unlock understanding.",
       "id": "1989476354077696411"
+    },
+    {
+      "time": "2025-11-15T07:57:09.535087-05:00",
+      "text": "While you develop and practice in your demo account, it's important for you to implement strict risk controls.",
+      "id": "1989679061803962730"
     }
   ]
 }

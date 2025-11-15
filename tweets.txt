@@ -107,8 +107,6 @@ Rules first, entries second; without structure you’re just gambling.
 ---
 You cannot escape it—you're going to lose money, you're going to lose on trades, and there's no reason to worry about it.
 ---
-While you develop and practice in your demo account, it's important for you to implement strict risk controls.
----
 It's important not to try to swing for homeruns or take larger risk to try to grow your account faster—it's not necessary, it's reckless.
 ---
 Over leverage will impede your development and drastically decrease your chances of seeing responsible equity growth.
