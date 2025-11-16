@@ -19,7 +19,8 @@
     "08:14",
     "08:49",
     "10:54",
-    "11:25"
+    "11:25",
+    "13:13"
   ],
   "log": [
     {
@@ -1196,6 +1197,11 @@
       "time": "2025-11-16T11:39:18.615993-05:00",
       "text": "It's important not to try to swing for homeruns or take larger risk to try to grow your account faster\u2014it's not necessary, it's reckless.",
       "id": "1990097355832701200"
+    },
+    {
+      "time": "2025-11-16T13:16:56.577203-05:00",
+      "text": "Three entry tools matter: stop runs, order blocks, and optimal trade entry.",
+      "id": "1990121925905977786"
     }
   ]
 }

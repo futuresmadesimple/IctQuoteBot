@@ -147,8 +147,6 @@ Relative equal highs and lows are liquidity, not support or resistance.
 ---
 Price won’t blast from every swept low—timing matters.
 ---
-Three entry tools matter: stop runs, order blocks, and optimal trade entry.
----
 Put your faith in time and price, not indicators.
 ---
 London and New York kill zones frame the highest-probability entries.
