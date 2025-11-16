@@ -81,8 +81,6 @@ Day trading isn’t every-day trading. Skip days without your setup.
 ---
 Yesterday’s high isn’t ‘resistance’—it’s a magnet when bias is up.
 ---
-If a day closes down in an up-bias, I’m stalking the next OTE long.
----
 Momentum that starts on the daily tends to persist 2–5 days.
 ---
 The ‘draw on liquidity’ is real: price seeks pools of stops.

@@ -16,7 +16,8 @@
   ],
   "posted": [
     "07:35",
-    "08:14"
+    "08:14",
+    "08:49"
   ],
   "log": [
     {
@@ -1178,6 +1179,11 @@
       "time": "2025-11-16T08:22:23.637476-05:00",
       "text": "Settle on one trade setup initially.",
       "id": "1990047800239726828"
+    },
+    {
+      "time": "2025-11-16T08:50:30.096548-05:00",
+      "text": "If a day closes down in an up-bias, I\u2019m stalking the next OTE long.",
+      "id": "1990054873727926684"
     }
   ]
 }
