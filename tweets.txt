@@ -141,8 +141,6 @@ Time and price theory blends the calendar clock with liquidity targets.
 ---
 Relative equal highs and lows are liquidity, not support or resistance.
 ---
-Price won’t blast from every swept low—timing matters.
----
 London and New York kill zones frame the highest-probability entries.
 ---
 FOMC days are “seek & destroy”—they raid both sides before expanding.
