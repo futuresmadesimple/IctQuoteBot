@@ -22,7 +22,8 @@
     "11:25",
     "13:13",
     "14:45",
-    "16:02"
+    "16:02",
+    "17:20"
   ],
   "log": [
     {
@@ -1214,6 +1215,11 @@
       "time": "2025-11-16T16:10:58.235512-05:00",
       "text": "Backtesting and studying old data makes every successful trader better.",
       "id": "1990165721469300826"
+    },
+    {
+      "time": "2025-11-16T17:31:21.037716-05:00",
+      "text": "SMT: you only consider using it when a key level should be influencing price.",
+      "id": "1990185949716984147"
     }
   ]
 }

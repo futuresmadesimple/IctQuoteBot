@@ -481,3 +481,5 @@ Three entry tools matter: stop runs, order blocks, and optimal trade entry.---
 Put your faith in time and price, not indicators.---
 # 2025-11-16 16:10:58 EST | POSTED | id=1990165721469300826
 Backtesting and studying old data makes every successful trader better.---
+# 2025-11-16 17:31:21 EST | POSTED | id=1990185949716984147
+SMT: you only consider using it when a key level should be influencing price.---
