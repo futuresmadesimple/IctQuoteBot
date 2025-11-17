@@ -37,8 +37,6 @@ Avoid system hopping.
 ---
 Determine your asset class—stick to that one asset class.
 ---
-Be an independent thinking trader—not a codependent one.
----
 It cannot see your particular stop; the broker can, but the delivery algorithm cannot.
 ---
 Build good habits and remove the opportunity to fall into bad habits.
