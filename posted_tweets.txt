@@ -501,3 +501,5 @@ You have to have rules: when should I do something, when should I expect a setup
 Currency prices are 100% controlled and manipulated by central banks.---
 # 2025-11-17 18:12:01 EST | POSTED | id=1990558573236228276
 Trade soberly: target the least monthly end for a few months.---
+# 2025-11-17 18:42:01 EST | POSTED | id=1990566124262465987
+SMT is not a timing tool; it’s a confirmation tool.---
