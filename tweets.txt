@@ -137,8 +137,6 @@ Time and price theory blends the calendar clock with liquidity targets.
 ---
 Relative equal highs and lows are liquidity, not support or resistance.
 ---
-London and New York kill zones frame the highest-probability entries.
----
 FOMC days are “seek & destroy”—they raid both sides before expanding.
 ---
 Smart money accumulates below daily sell-side liquidity and distributes above weekly buy-side.
