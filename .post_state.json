@@ -14,7 +14,9 @@
     "20:03",
     "21:41"
   ],
-  "posted": [],
+  "posted": [
+    "08:07"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -1215,6 +1217,11 @@
       "time": "2025-11-16T18:27:39.076890-05:00",
       "text": "Price won\u2019t blast from every swept low\u2014timing matters.",
       "id": "1990200118243475568"
+    },
+    {
+      "time": "2025-11-17T08:09:37.742958-05:00",
+      "text": "Practice in demo until the outcome no longer shakes you.",
+      "id": "1990406975684010242"
     }
   ]
 }
