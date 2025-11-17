@@ -17,7 +17,8 @@
   "posted": [
     "08:07",
     "09:23",
-    "09:54"
+    "09:54",
+    "12:12"
   ],
   "log": [
     {
@@ -1234,6 +1235,11 @@
       "time": "2025-11-17T10:15:33.209550-05:00",
       "text": "London and New York kill zones frame the highest-probability entries.",
       "id": "1990438665646924086"
+    },
+    {
+      "time": "2025-11-17T12:21:17.631894-05:00",
+      "text": "Backtest day of week and time of day\u2014those windows frame the highest-probability entries.",
+      "id": "1990470309221122331"
     }
   ]
 }

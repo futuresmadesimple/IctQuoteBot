@@ -491,3 +491,5 @@ Practice in demo until the outcome no longer shakes you.---
 Be an independent thinking trader—not a codependent one.---
 # 2025-11-17 10:15:33 EST | POSTED | id=1990438665646924086
 London and New York kill zones frame the highest-probability entries.---
+# 2025-11-17 12:21:17 EST | POSTED | id=1990470309221122331
+Backtest day of week and time of day—those windows frame the highest-probability entries.---

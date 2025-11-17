@@ -131,8 +131,6 @@ Each day is one-fifth of the weekly range with repeating signatures.
 ---
 If you’re bullish, watch for short-term lows to be taken and then look to buy.
 ---
-Backtest day of week and time of day—those windows frame the highest-probability entries.
----
 Time and price theory blends the calendar clock with liquidity targets.
 ---
 Relative equal highs and lows are liquidity, not support or resistance.
