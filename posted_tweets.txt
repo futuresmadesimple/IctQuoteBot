@@ -505,3 +505,5 @@ Trade soberly: target the least monthly end for a few months.---
 SMT is not a timing tool; it’s a confirmation tool.---
 # 2025-11-18 07:27:20 EST | POSTED | id=1990758721165631625
 Experience is going to guide you on how many candles really make up a consolidation.---
+# 2025-11-18 09:40:23 EST | POSTED | id=1990792205490139436
+SMT is simply a divergence between closely correlated assets or markets.---
