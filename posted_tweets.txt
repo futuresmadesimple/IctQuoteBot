@@ -523,3 +523,5 @@ Avoid system hopping.---
 Weather series of consecutive losses; every trader suffers drawdown.---
 # 2025-11-19 09:40:43 EST | POSTED | id=1991154677887451483
 We don’t care where the week closes—only where volatility mostly sends price.---
+# 2025-11-19 09:54:22 EST | POSTED | id=1991158112536187072
+Day trading isn’t every-day trading. Skip days without your setup.---
