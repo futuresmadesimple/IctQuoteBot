@@ -45,8 +45,6 @@ Avoid large risk for large wins.
 ---
 Ignore unprofitable traders’ advice on risk.
 ---
-Weather series of consecutive losses; every trader suffers drawdown.
----
 Stick to the method and reduce risk after losses.
 ---
 One trade should never be able to wipe out the account.
