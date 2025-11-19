@@ -31,8 +31,6 @@ Be honest in back testing—poor expectations create backwards results.
 ---
 Manage to keep risk below three percent maximum.
 ---
-Identify what negates your idea before you even put the trade on.
----
 Take the loss, go home for the day, and see what happens tomorrow.
 ---
 Ignore unprofitable traders’ advice on risk.
