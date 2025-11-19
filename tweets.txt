@@ -101,8 +101,6 @@ Before directionally driven moves, opposing stops are taken and then price is al
 ---
 In a bullish week, buy at or below the opening price each day.
 ---
-We don’t care where the week closes—only where volatility mostly sends price.
----
 Each day is one-fifth of the weekly range with repeating signatures.
 ---
 If you’re bullish, watch for short-term lows to be taken and then look to buy.
