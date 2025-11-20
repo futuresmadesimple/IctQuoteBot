@@ -24,7 +24,8 @@
     "14:18",
     "15:19",
     "16:43",
-    "17:34"
+    "17:34",
+    "18:10"
   ],
   "log": [
     {
@@ -1411,6 +1412,11 @@
       "time": "2025-11-20T17:43:11.294075-05:00",
       "text": "Proof of concept comes before live funds.",
       "id": "1991638480254861672"
+    },
+    {
+      "time": "2025-11-20T18:12:25.987358-05:00",
+      "text": "Determine your asset class\u2014stick to that one asset class.",
+      "id": "1991645839971020990"
     }
   ]
 }

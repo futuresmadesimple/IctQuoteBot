@@ -15,8 +15,6 @@ Keep a study and trade schedule.
 ---
 Be patient with your development.
 ---
-Determine your asset class—stick to that one asset class.
----
 It cannot see your particular stop; the broker can, but the delivery algorithm cannot.
 ---
 Build good habits and remove the opportunity to fall into bad habits.
