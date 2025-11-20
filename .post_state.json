@@ -14,7 +14,9 @@
     "18:10",
     "18:56"
   ],
-  "posted": [],
+  "posted": [
+    "08:02"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -1350,6 +1352,11 @@
       "time": "2025-11-19T17:53:35.383406-05:00",
       "text": "Identify what negates your idea before you even put the trade on.",
       "id": "1991278709941178544"
+    },
+    {
+      "time": "2025-11-20T08:08:14.832883-05:00",
+      "text": "Many treat funded challenges like a lottery.",
+      "id": "1991493791182733549"
     }
   ]
 }
