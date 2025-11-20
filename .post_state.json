@@ -23,7 +23,8 @@
     "12:40",
     "14:18",
     "15:19",
-    "16:43"
+    "16:43",
+    "17:34"
   ],
   "log": [
     {
@@ -1405,6 +1406,11 @@
       "time": "2025-11-20T16:50:55.497355-05:00",
       "text": "All boats rise with the tide\u2014if euro rallies, reasonably expect pound to rally as well.",
       "id": "1991625327710200060"
+    },
+    {
+      "time": "2025-11-20T17:43:11.294075-05:00",
+      "text": "Proof of concept comes before live funds.",
+      "id": "1991638480254861672"
     }
   ]
 }
