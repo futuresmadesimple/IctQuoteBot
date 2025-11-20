@@ -16,7 +16,8 @@
   ],
   "posted": [
     "08:02",
-    "08:38"
+    "08:38",
+    "09:08"
   ],
   "log": [
     {
@@ -1363,6 +1364,11 @@
       "time": "2025-11-20T08:38:25.678663-05:00",
       "text": "In a bullish week, buy at or below the opening price each day.",
       "id": "1991501386773852498"
+    },
+    {
+      "time": "2025-11-20T09:12:57.852131-05:00",
+      "text": "Be honest in back testing\u2014poor expectations create backwards results.",
+      "id": "1991510077937696777"
     }
   ]
 }

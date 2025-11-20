@@ -25,8 +25,6 @@ It cannot see your particular stop; the broker can, but the delivery algorithm c
 ---
 Build good habits and remove the opportunity to fall into bad habits.
 ---
-Be honest in back testing—poor expectations create backwards results.
----
 Manage to keep risk below three percent maximum.
 ---
 Take the loss, go home for the day, and see what happens tomorrow.
