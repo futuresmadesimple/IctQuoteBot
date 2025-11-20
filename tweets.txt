@@ -83,8 +83,6 @@ There’s no better way to learn than applying the model to a live chart and wat
 ---
 Before directionally driven moves, opposing stops are taken and then price is allowed to deliver.
 ---
-In a bullish week, buy at or below the opening price each day.
----
 Each day is one-fifth of the weekly range with repeating signatures.
 ---
 If you’re bullish, watch for short-term lows to be taken and then look to buy.
