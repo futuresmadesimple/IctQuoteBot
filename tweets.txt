@@ -13,8 +13,6 @@ Learn risk management well—and make that your initial, very first thing to mas
 ---
 Keep a study and trade schedule.
 ---
-Be patient with your development.
----
 It cannot see your particular stop; the broker can, but the delivery algorithm cannot.
 ---
 Build good habits and remove the opportunity to fall into bad habits.
