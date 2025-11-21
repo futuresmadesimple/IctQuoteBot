@@ -41,8 +41,6 @@ The ‘draw on liquidity’ is real: price seeks pools of stops.
 ---
 Stop trying to be perfect; aim to be consistent.
 ---
-If you need an indicator to believe it, you’ll miss the lesson: price tells you.
----
 Rules first, entries second; without structure you’re just gambling.
 ---
 You cannot escape it—you're going to lose money, you're going to lose on trades, and there's no reason to worry about it.
