@@ -17,7 +17,8 @@
   "posted": [
     "07:31",
     "09:27",
-    "10:26"
+    "10:26",
+    "12:02"
   ],
   "log": [
     {
@@ -1454,6 +1455,11 @@
       "time": "2025-12-01T10:40:29.830803-05:00",
       "text": "Stop trying to be perfect; aim to be consistent.",
       "id": "1995518373069832204"
+    },
+    {
+      "time": "2025-12-01T12:02:06.123077-05:00",
+      "text": "Over-leveraging because \u2018it doesn\u2019t hurt enough yet\u2019 will wreck you.",
+      "id": "1995538909581676827"
     }
   ]
 }
