@@ -52,7 +52,5 @@ Time and price theory blends the calendar clock with liquidity targets.
 ---
 Relative equal highs and lows are liquidity, not support or resistance.
 ---
-Smart money accumulates below daily sell-side liquidity and distributes above weekly buy-side.
----
 Late in the week, probability favors retracement over continuation once objectives are met.
 ---
