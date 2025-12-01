@@ -10,8 +10,6 @@ Reward yourself when you do it right, and when you do it wrong give yourself per
 ---
 It cannot see your particular stop; the broker can, but the delivery algorithm cannot.
 ---
-Build good habits and remove the opportunity to fall into bad habits.
----
 Manage to keep risk below three percent maximum.
 ---
 Take the loss, go home for the day, and see what happens tomorrow.
