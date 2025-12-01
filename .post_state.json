@@ -18,7 +18,8 @@
     "07:31",
     "09:27",
     "10:26",
-    "12:02"
+    "12:02",
+    "13:01"
   ],
   "log": [
     {
@@ -1460,6 +1461,11 @@
       "time": "2025-12-01T12:02:06.123077-05:00",
       "text": "Over-leveraging because \u2018it doesn\u2019t hurt enough yet\u2019 will wreck you.",
       "id": "1995538909581676827"
+    },
+    {
+      "time": "2025-12-01T13:21:41.552998-05:00",
+      "text": "Open, high, low, and close is the four best indicators you're ever going to find in price action\u2014it's price.",
+      "id": "1995558939124023514"
     }
   ]
 }
