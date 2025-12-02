@@ -44,7 +44,7 @@ jobs:
           X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
 
           # Optional tuning (matches your bot defaults)
-          SLOTS_PER_DAY: "12"
+          SLOTS_PER_DAY: "7"
           START_HOUR:    "7"    # 07:00 ET
           END_HOUR:      "21"   # 21:59 ET window
           WINDOW_MIN:    "75"   # 30-minute posting window
