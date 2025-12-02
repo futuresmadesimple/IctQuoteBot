@@ -12,7 +12,8 @@
   "posted": [
     "13:30",
     "14:00",
-    "15:15"
+    "15:15",
+    "16:00"
   ],
   "log": [
     {
@@ -1519,6 +1520,11 @@
       "time": "2025-12-02T15:15:54.195154-05:00",
       "text": "You cannot escape it\u2014you're going to lose money, you're going to lose on trades, and there's no reason to worry about it.",
       "id": "1995950069175255319"
+    },
+    {
+      "time": "2025-12-02T16:13:03.840991-05:00",
+      "text": "Take the loss, go home for the day, and see what happens tomorrow.",
+      "id": "1995964454111007005"
     }
   ]
 }

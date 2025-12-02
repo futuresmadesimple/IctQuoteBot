@@ -8,8 +8,6 @@ It cannot see your particular stop; the broker can, but the delivery algorithm c
 ---
 Manage to keep risk below three percent maximum.
 ---
-Take the loss, go home for the day, and see what happens tomorrow.
----
 Stick to the method and reduce risk after losses.
 ---
 Take partials—you never know if the market will reach your objective.
