@@ -15,7 +15,8 @@
     "21:42"
   ],
   "posted": [
-    "07:41"
+    "07:41",
+    "08:42"
   ],
   "log": [
     {
@@ -1492,6 +1493,11 @@
       "time": "2025-12-02T08:20:01.731303-05:00",
       "text": "Ignore unprofitable traders\u2019 advice on risk.",
       "id": "1995845410913501637"
+    },
+    {
+      "time": "2025-12-02T08:50:16.122063-05:00",
+      "text": "The \u2018draw on liquidity\u2019 is real: price seeks pools of stops.",
+      "id": "1995853021020930101"
     }
   ]
 }

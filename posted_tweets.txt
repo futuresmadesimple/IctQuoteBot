@@ -595,3 +595,5 @@ Over leverage will impede your development and drastically decrease your chances
 Your family is not going to understand what you're trying to do.---
 # 2025-12-02 08:20:01 EST | POSTED | id=1995845410913501637
 Ignore unprofitable traders’ advice on risk.---
+# 2025-12-02 08:50:16 EST | POSTED | id=1995853021020930101
+The ‘draw on liquidity’ is real: price seeks pools of stops.---
