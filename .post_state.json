@@ -17,7 +17,8 @@
   "posted": [
     "07:41",
     "08:42",
-    "09:29"
+    "09:29",
+    "11:44"
   ],
   "log": [
     {
@@ -1504,6 +1505,11 @@
       "time": "2025-12-02T09:44:08.601551-05:00",
       "text": "Yesterday\u2019s high isn\u2019t \u2018resistance\u2019\u2014it\u2019s a magnet when bias is up.",
       "id": "1995866578936823951"
+    },
+    {
+      "time": "2025-12-02T11:48:34.670866-05:00",
+      "text": "Time and price theory blends the calendar clock with liquidity targets.",
+      "id": "1995897893966721377"
     }
   ]
 }
