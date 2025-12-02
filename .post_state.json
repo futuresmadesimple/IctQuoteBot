@@ -11,7 +11,8 @@
   ],
   "posted": [
     "13:30",
-    "14:00"
+    "14:00",
+    "15:15"
   ],
   "log": [
     {
@@ -1513,6 +1514,11 @@
       "time": "2025-12-02T14:14:14.658769-05:00",
       "text": "It may seem impossible right now, but I assure you it is possible.",
       "id": "1995934552213307803"
+    },
+    {
+      "time": "2025-12-02T15:15:54.195154-05:00",
+      "text": "You cannot escape it\u2014you're going to lose money, you're going to lose on trades, and there's no reason to worry about it.",
+      "id": "1995950069175255319"
     }
   ]
 }
