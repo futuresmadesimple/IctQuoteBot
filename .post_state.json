@@ -14,7 +14,9 @@
     "20:01",
     "21:42"
   ],
-  "posted": [],
+  "posted": [
+    "07:41"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -1485,6 +1487,11 @@
       "time": "2025-12-01T18:33:43.696185-05:00",
       "text": "Your family is not going to understand what you're trying to do.",
       "id": "1995637465583956082"
+    },
+    {
+      "time": "2025-12-02T08:20:01.731303-05:00",
+      "text": "Ignore unprofitable traders\u2019 advice on risk.",
+      "id": "1995845410913501637"
     }
   ]
 }
