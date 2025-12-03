@@ -4,8 +4,6 @@ It cannot see your particular stop; the broker can, but the delivery algorithm c
 ---
 Manage to keep risk below three percent maximum.
 ---
-Stick to the method and reduce risk after losses.
----
 Take partials—you never know if the market will reach your objective.
 ---
 Momentum that starts on the daily tends to persist 2–5 days.

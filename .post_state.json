@@ -14,7 +14,8 @@
     "09:30",
     "10:00",
     "13:30",
-    "14:00"
+    "14:00",
+    "15:15"
   ],
   "log": [
     {
@@ -1551,6 +1552,11 @@
       "time": "2025-12-03T14:12:21.271181-05:00",
       "text": "Before directionally driven moves, opposing stops are taken and then price is allowed to deliver.",
       "id": "1996296464469749921"
+    },
+    {
+      "time": "2025-12-03T15:15:51.293736-05:00",
+      "text": "Stick to the method and reduce risk after losses.",
+      "id": "1996312444780924933"
     }
   ]
 }
