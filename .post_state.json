@@ -13,7 +13,8 @@
     "08:30",
     "09:30",
     "10:00",
-    "13:30"
+    "13:30",
+    "14:00"
   ],
   "log": [
     {
@@ -1545,6 +1546,11 @@
       "time": "2025-12-03T13:50:00.750405-05:00",
       "text": "Reward yourself when you do it right, and when you do it wrong give yourself permission to be wrong.",
       "id": "1996290841883607422"
+    },
+    {
+      "time": "2025-12-03T14:12:21.271181-05:00",
+      "text": "Before directionally driven moves, opposing stops are taken and then price is allowed to deliver.",
+      "id": "1996296464469749921"
     }
   ]
 }
