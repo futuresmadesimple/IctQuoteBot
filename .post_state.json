@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -1533,6 +1534,11 @@
       "time": "2025-12-03T09:43:16.351898-05:00",
       "text": "Relative equal highs and lows are liquidity, not support or resistance.",
       "id": "1996228747746328877"
+    },
+    {
+      "time": "2025-12-03T10:18:34.701948-05:00",
+      "text": "Young folks\u2014control the urge to chase immediate wealth.",
+      "id": "1996237632720740837"
     }
   ]
 }
