@@ -1,5 +1,3 @@
-Use funded accounts to seed your own retail account.
----
 It cannot see your particular stop; the broker can, but the delivery algorithm cannot.
 ---
 Manage to keep risk below three percent maximum.
