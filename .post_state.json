@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -1555,6 +1557,11 @@
       "time": "2025-12-03T16:12:54.454888-05:00",
       "text": "Use funded accounts to seed your own retail account.",
       "id": "1996326802579665113"
+    },
+    {
+      "time": "2025-12-04T08:50:52.536501-05:00",
+      "text": "Rules first, entries second; without structure you\u2019re just gambling.",
+      "id": "1996577949471080506"
     }
   ]
 }
