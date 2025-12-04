@@ -1,5 +1,3 @@
-It cannot see your particular stop; the broker can, but the delivery algorithm cannot.
----
 Manage to keep risk below three percent maximum.
 ---
 Take partials—you never know if the market will reach your objective.
