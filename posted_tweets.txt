@@ -633,3 +633,5 @@ Smart money buys sell stops and sells to buy stops.---
 Momentum that starts on the daily tends to persist 2–5 days.---
 # 2025-12-04 14:13:28 EST | POSTED | id=1996659135798976726
 It cannot see your particular stop; the broker can, but the delivery algorithm cannot.---
+# 2025-12-04 15:15:20 EST | POSTED | id=1996674703608480186
+Supply and demand has no bearing on the delivery of currency prices. Period.---
