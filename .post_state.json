@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -1568,6 +1569,11 @@
       "time": "2025-12-04T09:43:10.342985-05:00",
       "text": "Late in the week, probability favors retracement over continuation once objectives are met.",
       "id": "1996591110395723855"
+    },
+    {
+      "time": "2025-12-04T10:17:48.778623-05:00",
+      "text": "Smart money buys sell stops and sells to buy stops.",
+      "id": "1996599827854184614"
     }
   ]
 }
