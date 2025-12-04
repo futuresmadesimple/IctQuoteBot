@@ -12,7 +12,8 @@
   "posted": [
     "08:30",
     "09:30",
-    "10:00"
+    "10:00",
+    "13:30"
   ],
   "log": [
     {
@@ -1574,6 +1575,11 @@
       "time": "2025-12-04T10:17:48.778623-05:00",
       "text": "Smart money buys sell stops and sells to buy stops.",
       "id": "1996599827854184614"
+    },
+    {
+      "time": "2025-12-04T13:50:56.787048-05:00",
+      "text": "Momentum that starts on the daily tends to persist 2\u20135 days.",
+      "id": "1996653464722567303"
     }
   ]
 }
