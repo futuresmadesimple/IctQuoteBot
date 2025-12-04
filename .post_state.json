@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "09:30"
   ],
   "log": [
     {
@@ -1562,6 +1563,11 @@
       "time": "2025-12-04T08:50:52.536501-05:00",
       "text": "Rules first, entries second; without structure you\u2019re just gambling.",
       "id": "1996577949471080506"
+    },
+    {
+      "time": "2025-12-04T09:43:10.342985-05:00",
+      "text": "Late in the week, probability favors retracement over continuation once objectives are met.",
+      "id": "1996591110395723855"
     }
   ]
 }
