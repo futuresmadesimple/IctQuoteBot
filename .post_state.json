@@ -12,7 +12,8 @@
   "posted": [
     "13:30",
     "14:00",
-    "15:15"
+    "15:15",
+    "16:00"
   ],
   "log": [
     {
@@ -1619,6 +1620,11 @@
       "time": "2025-12-07T15:35:50.924614-05:00",
       "text": "It\u2019s not about being right\u2014it\u2019s about being aligned with the order flow.",
       "id": "1997767027847778369"
+    },
+    {
+      "time": "2025-12-07T16:10:37.432022-05:00",
+      "text": "TradingView, demo platforms, and back-testing tools are for building habits\u2014not gambling.",
+      "id": "1997775779359346857"
     }
   ]
 }
