@@ -11,7 +11,8 @@
   ],
   "posted": [
     "13:30",
-    "14:00"
+    "14:00",
+    "15:15"
   ],
   "log": [
     {
@@ -1613,6 +1614,11 @@
       "time": "2025-12-07T14:09:39.689853-05:00",
       "text": "Before year six you\u2019re a wild cowboy; after, you know exactly what you\u2019re looking for.",
       "id": "1997745338170438087"
+    },
+    {
+      "time": "2025-12-07T15:35:50.924614-05:00",
+      "text": "It\u2019s not about being right\u2014it\u2019s about being aligned with the order flow.",
+      "id": "1997767027847778369"
     }
   ]
 }
