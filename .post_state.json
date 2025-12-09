@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -1668,6 +1669,11 @@
       "time": "2025-12-09T09:43:45.312231-05:00",
       "text": "Above equal highs sit buy stops; below equal lows sit sell stops.",
       "id": "1998403196285530422"
+    },
+    {
+      "time": "2025-12-09T10:20:42.213524-05:00",
+      "text": "Don't count other people's money.",
+      "id": "1998412494746861995"
     }
   ]
 }
