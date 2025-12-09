@@ -14,7 +14,8 @@
     "09:30",
     "10:00",
     "13:30",
-    "14:00"
+    "14:00",
+    "15:15"
   ],
   "log": [
     {
@@ -1686,6 +1687,11 @@
       "time": "2025-12-09T14:16:37.916613-05:00",
       "text": "Put your faith in time and price, not indicators.",
       "id": "1998471867980488873"
+    },
+    {
+      "time": "2025-12-09T15:34:31.223779-05:00",
+      "text": "Go into the charts looking to disprove what I\u2019m saying\u2014and you\u2019re going to shock yourself.",
+      "id": "1998491469376549234"
     }
   ]
 }
