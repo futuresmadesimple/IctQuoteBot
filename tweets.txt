@@ -444,8 +444,6 @@ It's important not to try to swing for homeruns or take larger risk to try to gr
 ---
 Three entry tools matter: stop runs, order blocks, and optimal trade entry.
 ---
-Put your faith in time and price, not indicators.
----
 Backtesting and studying old data makes every successful trader better.
 ---
 SMT: you only consider using it when a key level should be influencing price.
