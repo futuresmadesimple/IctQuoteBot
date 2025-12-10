@@ -15,7 +15,8 @@
     "10:00",
     "13:30",
     "14:00",
-    "15:15"
+    "15:15",
+    "16:00"
   ],
   "log": [
     {
@@ -1727,6 +1728,11 @@
       "time": "2025-12-10T15:15:48.039747-05:00",
       "text": "When am I ready for live funds? It begins with proof of concept.",
       "id": "1998849146267017699"
+    },
+    {
+      "time": "2025-12-10T16:15:55.160550-05:00",
+      "text": "Over leverage will impede your development and drastically decrease your chances of seeing responsible equity growth.",
+      "id": "1998864275591344346"
     }
   ]
 }
