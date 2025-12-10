@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -1703,6 +1704,11 @@
       "time": "2025-12-10T09:44:12.807409-05:00",
       "text": "Only consider trading for a living when you\u2019re properly funded\u2014about $100,000 or more.",
       "id": "1998765699498488308"
+    },
+    {
+      "time": "2025-12-10T10:27:03.499426-05:00",
+      "text": "Outline when you want to buy and when you want to go short\u2014put it on paper.",
+      "id": "1998776481829326905"
     }
   ]
 }
