@@ -15,7 +15,8 @@
     "10:00",
     "13:30",
     "14:00",
-    "15:15"
+    "15:15",
+    "16:00"
   ],
   "log": [
     {
@@ -1762,6 +1763,11 @@
       "time": "2025-12-11T15:16:21.813460-05:00",
       "text": "If you can\u2019t cover small ends consistently, you won\u2019t handle big leverage.",
       "id": "1999211675661271105"
+    },
+    {
+      "time": "2025-12-11T16:14:55.989173-05:00",
+      "text": "Order blocks can offer high-accuracy, low-drawdown entries.",
+      "id": "1999226415296979130"
     }
   ]
 }

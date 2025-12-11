@@ -74,8 +74,6 @@ Smart money concepts are not going to die out.
 ---
 Multiple losses do not prove your method is broken.
 ---
-Order blocks can offer high-accuracy, low-drawdown entries.
----
 Trading without stops will make you lose money faster.
 ---
 The highest-probability trades align with the higher-timeframe direction.
