@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "09:30"
   ],
   "log": [
     {
@@ -1732,6 +1733,11 @@
       "time": "2025-12-11T08:52:42.651158-05:00",
       "text": "SMT: you only consider using it when a key level should be influencing price.",
       "id": "1999115126364901437"
+    },
+    {
+      "time": "2025-12-11T09:40:27.920846-05:00",
+      "text": "Ends must meet\u2014but don\u2019t take fear about your ends into the marketplace.",
+      "id": "1999127144018972723"
     }
   ]
 }
