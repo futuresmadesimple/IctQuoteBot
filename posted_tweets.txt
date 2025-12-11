@@ -691,3 +691,5 @@ Be honest in back testing—poor expectations create backwards results.---
 When am I ready for live funds? It begins with proof of concept.---
 # 2025-12-10 16:15:55 EST | POSTED | id=1998864275591344346
 Over leverage will impede your development and drastically decrease your chances of seeing responsible equity growth.---
+# 2025-12-11 08:52:42 EST | POSTED | id=1999115126364901437
+SMT: you only consider using it when a key level should be influencing price.---
