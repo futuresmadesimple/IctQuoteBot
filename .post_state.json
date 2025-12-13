@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -1808,6 +1809,11 @@
       "time": "2025-12-13T09:31:55.696451-05:00",
       "text": "Practice in demo until the outcome no longer shakes you.",
       "id": "1999849771490586655"
+    },
+    {
+      "time": "2025-12-13T10:12:20.800326-05:00",
+      "text": "Play in the sandbox\u2014build good habits on a demo account.",
+      "id": "1999859943118442550"
     }
   ]
 }
