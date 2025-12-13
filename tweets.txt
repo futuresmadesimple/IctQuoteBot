@@ -408,8 +408,6 @@ Backtesting and studying old data makes every successful trader better.
 ---
 Price won’t blast from every swept low—timing matters.
 ---
-Practice in demo until the outcome no longer shakes you.
----
 Be an independent thinking trader—not a codependent one.
 ---
 London and New York kill zones frame the highest-probability entries.

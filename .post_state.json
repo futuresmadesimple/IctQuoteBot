@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "09:30"
   ],
   "log": [
     {
@@ -1802,6 +1803,11 @@
       "time": "2025-12-13T08:34:51.791044-05:00",
       "text": "Equal highs and equal lows are the easiest liquidity to spot.",
       "id": "1999835410546205084"
+    },
+    {
+      "time": "2025-12-13T09:31:55.696451-05:00",
+      "text": "Practice in demo until the outcome no longer shakes you.",
+      "id": "1999849771490586655"
     }
   ]
 }
