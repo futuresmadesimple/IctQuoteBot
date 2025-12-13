@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -1795,6 +1797,11 @@
       "time": "2025-12-12T16:12:28.435990-05:00",
       "text": "5% risk is absolutely too much\u2014it\u2019s insane. Don\u2019t do it.",
       "id": "1999588184292761640"
+    },
+    {
+      "time": "2025-12-13T08:34:51.791044-05:00",
+      "text": "Equal highs and equal lows are the easiest liquidity to spot.",
+      "id": "1999835410546205084"
     }
   ]
 }
