@@ -13,7 +13,8 @@
     "08:30",
     "09:30",
     "10:00",
-    "13:30"
+    "13:30",
+    "14:00"
   ],
   "log": [
     {
@@ -1820,6 +1821,11 @@
       "time": "2025-12-13T13:42:55.125604-05:00",
       "text": "No one will control your risk for you\u2014not your spouse, not your broker. It must be in your plan.",
       "id": "1999912935359984104"
+    },
+    {
+      "time": "2025-12-13T14:09:42.760682-05:00",
+      "text": "Remember this: to and through.",
+      "id": "1999919678236623117"
     }
   ]
 }
