@@ -492,8 +492,6 @@ Ignore unprofitable traders’ advice on risk.
 ---
 The ‘draw on liquidity’ is real: price seeks pools of stops.
 ---
-Yesterday’s high isn’t ‘resistance’—it’s a magnet when bias is up.
----
 Time and price theory blends the calendar clock with liquidity targets.
 ---
 One trade should never be able to wipe out the account.
