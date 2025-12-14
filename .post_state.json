@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -1830,6 +1832,11 @@
       "time": "2025-12-13T16:10:57.908747-05:00",
       "text": "Don\u2019t be a slave to image.",
       "id": "1999950192435486760"
+    },
+    {
+      "time": "2025-12-14T08:35:20.807811-05:00",
+      "text": "Use three timeframes per style: position (monthly/weekly/daily), swing (daily/4h/1h), short-term (4h/1h/15m), day (1h/15m/5m).",
+      "id": "2000197920004423695"
     }
   ]
 }
