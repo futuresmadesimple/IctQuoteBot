@@ -388,8 +388,6 @@ Backtesting and studying old data makes every successful trader better.
 ---
 Be an independent thinking trader—not a codependent one.
 ---
-London and New York kill zones frame the highest-probability entries.
----
 Backtest day of week and time of day—those windows frame the highest-probability entries.
 ---
 Let the Sunday open frame your bias; let Tuesday/Wednesday define your entry.

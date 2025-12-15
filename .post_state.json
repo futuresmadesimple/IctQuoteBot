@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -1878,6 +1879,11 @@
       "time": "2025-12-15T09:48:04.339101-05:00",
       "text": "The algorithm seeks sell-side liquidity below old lows and buy-side liquidity above old highs.",
       "id": "2000578610000752674"
+    },
+    {
+      "time": "2025-12-15T10:01:37.432031-05:00",
+      "text": "London and New York kill zones frame the highest-probability entries.",
+      "id": "2000582020280521015"
     }
   ]
 }
