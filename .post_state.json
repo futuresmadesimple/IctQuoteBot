@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -1865,6 +1867,11 @@
       "time": "2025-12-14T16:11:50.846804-05:00",
       "text": "Write down what your life costs each month; make a budget.",
       "id": "2000312802385473760"
+    },
+    {
+      "time": "2025-12-15T08:54:40.368977-05:00",
+      "text": "When I refer to power 3 what I'm referring to is the three components that make up generic price action: the accumulation phase, a manipulation stage, and then an arranged expansion and then a distribution.",
+      "id": "2000565171383566653"
     }
   ]
 }

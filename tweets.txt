@@ -348,8 +348,6 @@ Traders don’t push price; the algorithm does.
 ---
 Expect distribution into buy stops above the original consolidation in a buy model.
 ---
-When I refer to power 3 what I'm referring to is the three components that make up generic price action: the accumulation phase, a manipulation stage, and then an arranged expansion and then a distribution.
----
 If you can’t succeed on demo, you won’t succeed live.
 ---
 Always view TradingView through the lens of New York time, wherever you live.
