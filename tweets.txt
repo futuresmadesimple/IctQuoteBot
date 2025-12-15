@@ -374,8 +374,6 @@ When a level is swept, ask “where is the opposing liquidity?” and aim there.
 ---
 Central banks are the producer of currency prices and are the market maker.
 ---
-If a day closes down in an up-bias, I’m stalking the next OTE long.
----
 Don’t obsess over the exact top; catch the meat of the move and move on.
 ---
 It's important not to try to swing for homeruns or take larger risk to try to grow your account faster—it's not necessary, it's reckless.
