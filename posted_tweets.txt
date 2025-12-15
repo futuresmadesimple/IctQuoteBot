@@ -753,3 +753,5 @@ When I refer to power 3 what I'm referring to is the three components that make 
 The algorithm seeks sell-side liquidity below old lows and buy-side liquidity above old highs.---
 # 2025-12-15 10:01:37 EST | POSTED | id=2000582020280521015
 London and New York kill zones frame the highest-probability entries.---
+# 2025-12-15 13:50:57 EST | POSTED | id=2000639732217155991
+Price never moves in a straight line; it swings, consolidates, and swings again.---
