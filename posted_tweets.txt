@@ -749,3 +749,5 @@ Yesterday’s high isn’t ‘resistance’—it’s a magnet when bias is up.--
 Write down what your life costs each month; make a budget.---
 # 2025-12-15 08:54:40 EST | POSTED | id=2000565171383566653
 When I refer to power 3 what I'm referring to is the three components that make up generic price action: the accumulation phase, a manipulation stage, and then an arranged expansion and then a distribution.---
+# 2025-12-15 09:48:04 EST | POSTED | id=2000578610000752674
+The algorithm seeks sell-side liquidity below old lows and buy-side liquidity above old highs.---
