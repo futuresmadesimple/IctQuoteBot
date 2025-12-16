@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "09:30"
   ],
   "log": [
     {
@@ -1907,6 +1908,11 @@
       "time": "2025-12-16T08:52:13.085206-05:00",
       "text": "Determine your asset class\u2014stick to that one asset class.",
       "id": "2000926941696942123"
+    },
+    {
+      "time": "2025-12-16T09:45:42.239079-05:00",
+      "text": "Don\u2019t blow your account because you can\u2019t accept that you were wrong.",
+      "id": "2000940401062969392"
     }
   ]
 }
