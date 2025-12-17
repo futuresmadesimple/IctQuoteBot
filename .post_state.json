@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -1948,6 +1949,11 @@
       "time": "2025-12-17T09:45:44.322573-05:00",
       "text": "Learn to read the charts and business opportunities open\u2014bringing business income.",
       "id": "2001302798491877658"
+    },
+    {
+      "time": "2025-12-17T10:26:55.176578-05:00",
+      "text": "Plot the Sunday opening price across the whole week\u2014then let the market tell you overbought/oversold without indicators.",
+      "id": "2001313161929015609"
     }
   ]
 }
