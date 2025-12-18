@@ -15,7 +15,8 @@
     "10:00",
     "13:30",
     "14:00",
-    "15:15"
+    "15:15",
+    "16:00"
   ],
   "log": [
     {
@@ -2007,6 +2008,11 @@
       "time": "2025-12-18T15:36:11.843106-05:00",
       "text": "Don't measure yourself against someone else.",
       "id": "2001753382168752412"
+    },
+    {
+      "time": "2025-12-18T16:12:54.195843-05:00",
+      "text": "If you\u2019re not comfortable losing money consistently, this isn\u2019t for you.",
+      "id": "2001762619531694272"
     }
   ]
 }
