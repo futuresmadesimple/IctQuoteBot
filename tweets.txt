@@ -328,8 +328,6 @@ Bias = daily chart. Liquidity targets = hourly chart.
 ---
 If you’re developing, stand aside on FOMC—the whipsaw will paralyze you.
 ---
-Don’t quit—study, practice, and let time unlock understanding.
----
 While you develop and practice in your demo account, it's important for you to implement strict risk controls.
 ---
 Trust yourself; don’t outsource risk decisions to strangers.
