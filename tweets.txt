@@ -420,8 +420,6 @@ Build good habits and remove the opportunity to fall into bad habits.
 ---
 Your family is not going to understand what you're trying to do.
 ---
-Ignore unprofitable traders’ advice on risk.
----
 The ‘draw on liquidity’ is real: price seeks pools of stops.
 ---
 Time and price theory blends the calendar clock with liquidity targets.
