@@ -12,7 +12,8 @@
   "posted": [
     "08:30",
     "09:30",
-    "10:00"
+    "10:00",
+    "13:30"
   ],
   "log": [
     {
@@ -2024,6 +2025,11 @@
       "time": "2025-12-19T10:14:40.167973-05:00",
       "text": "Focus on previous day\u2019s highs and lows, previous week\u2019s highs and lows, previous month\u2019s highs and lows.",
       "id": "2002034854821527795"
+    },
+    {
+      "time": "2025-12-19T13:47:55.579192-05:00",
+      "text": "You\u2019re not only trading with money\u2014you\u2019re trading with mental capital.",
+      "id": "2002088522656985489"
     }
   ]
 }
