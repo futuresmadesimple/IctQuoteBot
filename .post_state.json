@@ -12,7 +12,8 @@
   "posted": [
     "08:30",
     "09:30",
-    "10:00"
+    "10:00",
+    "13:30"
   ],
   "log": [
     {
@@ -2059,6 +2060,11 @@
       "time": "2025-12-20T10:12:20.992536-05:00",
       "text": "The highest-probability trades align with the higher-timeframe direction.",
       "id": "2002396658974282086"
+    },
+    {
+      "time": "2025-12-20T13:42:49.900783-05:00",
+      "text": "Expect pullbacks to order blocks or optimal trade entry inside the kill zones.",
+      "id": "2002449628399022212"
     }
   ]
 }
