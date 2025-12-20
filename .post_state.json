@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -2053,6 +2054,11 @@
       "time": "2025-12-20T09:31:48.645111-05:00",
       "text": "Weekly bias 101: in bullish conditions, the low of the week usually forms between Sunday\u2019s open and Wednesday\u2019s New York open.",
       "id": "2002386456975651195"
+    },
+    {
+      "time": "2025-12-20T10:12:20.992536-05:00",
+      "text": "The highest-probability trades align with the higher-timeframe direction.",
+      "id": "2002396658974282086"
     }
   ]
 }

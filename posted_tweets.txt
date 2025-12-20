@@ -821,3 +821,5 @@ Let the highest timeframe show where price is reaching; time entries with the mi
 Measured moves matter: replicate prior swings to anticipate distance.---
 # 2025-12-20 09:31:48 EST | POSTED | id=2002386456975651195
 Weekly bias 101: in bullish conditions, the low of the week usually forms between Sunday’s open and Wednesday’s New York open.---
+# 2025-12-20 10:12:20 EST | POSTED | id=2002396658974282086
+The highest-probability trades align with the higher-timeframe direction.---

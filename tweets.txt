@@ -56,8 +56,6 @@ Multiple losses do not prove your method is broken.
 ---
 Trading without stops will make you lose money faster.
 ---
-The highest-probability trades align with the higher-timeframe direction.
----
 I hate losing—but I reduce risk after a loss instead of swinging harder.
 ---
 Trading above the weekly open in a bearish week = overbought. Trading below the open in a bullish week = oversold.
