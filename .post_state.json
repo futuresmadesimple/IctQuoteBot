@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "09:30"
   ],
   "log": [
     {
@@ -2047,6 +2048,11 @@
       "time": "2025-12-20T08:34:49.824933-05:00",
       "text": "Measured moves matter: replicate prior swings to anticipate distance.",
       "id": "2002372117438853269"
+    },
+    {
+      "time": "2025-12-20T09:31:48.645111-05:00",
+      "text": "Weekly bias 101: in bullish conditions, the low of the week usually forms between Sunday\u2019s open and Wednesday\u2019s New York open.",
+      "id": "2002386456975651195"
     }
   ]
 }
