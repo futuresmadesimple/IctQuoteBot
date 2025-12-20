@@ -827,3 +827,5 @@ The highest-probability trades align with the higher-timeframe direction.---
 Expect pullbacks to order blocks or optimal trade entry inside the kill zones.---
 # 2025-12-20 14:09:47 EST | POSTED | id=2002456412195000704
 Run your life like a business.---
+# 2025-12-20 15:35:23 EST | POSTED | id=2002477954459447337
+While you develop and practice in your demo account, it's important for you to implement strict risk controls.---
