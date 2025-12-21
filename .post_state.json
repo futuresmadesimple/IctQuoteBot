@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "09:30"
   ],
   "log": [
     {
@@ -2082,6 +2083,11 @@
       "time": "2025-12-21T08:35:50.898366-05:00",
       "text": "We\u2019re not gambling\u2014we\u2019re hunting high-probability scenarios.",
       "id": "2002734761421185095"
+    },
+    {
+      "time": "2025-12-21T09:32:23.900284-05:00",
+      "text": "Employment income is static\u2014limited to what your employer feels you\u2019re worth.",
+      "id": "2002748992665338179"
     }
   ]
 }
