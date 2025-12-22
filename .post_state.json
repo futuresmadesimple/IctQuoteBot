@@ -15,7 +15,8 @@
     "10:00",
     "13:30",
     "14:00",
-    "15:15"
+    "15:15",
+    "16:00"
   ],
   "log": [
     {
@@ -2147,6 +2148,11 @@
       "time": "2025-12-22T15:39:31.690827-05:00",
       "text": "Don't think that you have to know everything right now\u2014because you don't.",
       "id": "2003203771745108204"
+    },
+    {
+      "time": "2025-12-22T16:12:20.527296-05:00",
+      "text": "Bias = daily chart. Liquidity targets = hourly chart.",
+      "id": "2003212029767962927"
     }
   ]
 }

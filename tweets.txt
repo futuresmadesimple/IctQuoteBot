@@ -276,8 +276,6 @@ Always view TradingView through the lens of New York time, wherever you live.
 ---
 After weekly objectives are met early, expect consolidation or deeper retracement.
 ---
-Bias = daily chart. Liquidity targets = hourly chart.
----
 If you’re developing, stand aside on FOMC—the whipsaw will paralyze you.
 ---
 Trust yourself; don’t outsource risk decisions to strangers.
