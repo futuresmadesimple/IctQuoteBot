@@ -320,8 +320,6 @@ Currency prices are 100% controlled and manipulated by central banks.
 ---
 Trade soberly: target the least monthly end for a few months.
 ---
-SMT is not a timing tool; it’s a confirmation tool.
----
 Experience is going to guide you on how many candles really make up a consolidation.
 ---
 SMT is simply a divergence between closely correlated assets or markets.
