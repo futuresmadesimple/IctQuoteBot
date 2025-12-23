@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -2145,6 +2147,11 @@
       "time": "2025-12-22T16:12:20.527296-05:00",
       "text": "Bias = daily chart. Liquidity targets = hourly chart.",
       "id": "2003212029767962927"
+    },
+    {
+      "time": "2025-12-23T08:49:19.868342-05:00",
+      "text": "Price is fractal\u2014the same formations repeat on every timeframe.",
+      "id": "2003462930226892913"
     }
   ]
 }
