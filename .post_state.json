@@ -13,7 +13,8 @@
     "08:30",
     "09:30",
     "10:00",
-    "13:30"
+    "13:30",
+    "14:00"
   ],
   "log": [
     {
@@ -2170,6 +2171,11 @@
       "time": "2025-12-23T13:49:18.743832-05:00",
       "text": "Risk management is how you survive and build longevity in trading.",
       "id": "2003538423022223675"
+    },
+    {
+      "time": "2025-12-23T14:12:45.847703-05:00",
+      "text": "We start arm-wrestling the market because we want to be right\u2014that\u2019s how accounts die.",
+      "id": "2003544324827742454"
     }
   ]
 }

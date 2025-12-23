@@ -867,3 +867,5 @@ Measure entry to target time, drawdown, and how long the trade took.---
 After a liquidity sweep, price often reverses—plan for that.---
 # 2025-12-23 13:49:18 EST | POSTED | id=2003538423022223675
 Risk management is how you survive and build longevity in trading.---
+# 2025-12-23 14:12:45 EST | POSTED | id=2003544324827742454
+We start arm-wrestling the market because we want to be right—that’s how accounts die.---
