@@ -865,3 +865,5 @@ Price is fractal—the same formations repeat on every timeframe.---
 Measure entry to target time, drawdown, and how long the trade took.---
 # 2025-12-23 10:14:38 EST | POSTED | id=2003484398973517937
 After a liquidity sweep, price often reverses—plan for that.---
+# 2025-12-23 13:49:18 EST | POSTED | id=2003538423022223675
+Risk management is how you survive and build longevity in trading.---

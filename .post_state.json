@@ -12,7 +12,8 @@
   "posted": [
     "08:30",
     "09:30",
-    "10:00"
+    "10:00",
+    "13:30"
   ],
   "log": [
     {
@@ -2164,6 +2165,11 @@
       "time": "2025-12-23T10:14:38.408055-05:00",
       "text": "After a liquidity sweep, price often reverses\u2014plan for that.",
       "id": "2003484398973517937"
+    },
+    {
+      "time": "2025-12-23T13:49:18.743832-05:00",
+      "text": "Risk management is how you survive and build longevity in trading.",
+      "id": "2003538423022223675"
     }
   ]
 }
