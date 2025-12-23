@@ -869,3 +869,5 @@ After a liquidity sweep, price often reverses—plan for that.---
 Risk management is how you survive and build longevity in trading.---
 # 2025-12-23 14:12:45 EST | POSTED | id=2003544324827742454
 We start arm-wrestling the market because we want to be right—that’s how accounts die.---
+# 2025-12-23 15:15:01 EST | POSTED | id=2003559991572062362
+Avoid system hopping.---
