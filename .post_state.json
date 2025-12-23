@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "09:30"
   ],
   "log": [
     {
@@ -2152,6 +2153,11 @@
       "time": "2025-12-23T08:49:19.868342-05:00",
       "text": "Price is fractal\u2014the same formations repeat on every timeframe.",
       "id": "2003462930226892913"
+    },
+    {
+      "time": "2025-12-23T09:41:35.814920-05:00",
+      "text": "Measure entry to target time, drawdown, and how long the trade took.",
+      "id": "2003476083358990483"
     }
   ]
 }

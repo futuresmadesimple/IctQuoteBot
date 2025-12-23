@@ -861,3 +861,5 @@ Don't think that you have to know everything right now—because you don't.---
 Bias = daily chart. Liquidity targets = hourly chart.---
 # 2025-12-23 08:49:19 EST | POSTED | id=2003462930226892913
 Price is fractal—the same formations repeat on every timeframe.---
+# 2025-12-23 09:41:35 EST | POSTED | id=2003476083358990483
+Measure entry to target time, drawdown, and how long the trade took.---
