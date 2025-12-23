@@ -863,3 +863,5 @@ Bias = daily chart. Liquidity targets = hourly chart.---
 Price is fractal—the same formations repeat on every timeframe.---
 # 2025-12-23 09:41:35 EST | POSTED | id=2003476083358990483
 Measure entry to target time, drawdown, and how long the trade took.---
+# 2025-12-23 10:14:38 EST | POSTED | id=2003484398973517937
+After a liquidity sweep, price often reverses—plan for that.---

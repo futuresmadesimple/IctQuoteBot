@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -2158,6 +2159,11 @@
       "time": "2025-12-23T09:41:35.814920-05:00",
       "text": "Measure entry to target time, drawdown, and how long the trade took.",
       "id": "2003476083358990483"
+    },
+    {
+      "time": "2025-12-23T10:14:38.408055-05:00",
+      "text": "After a liquidity sweep, price often reverses\u2014plan for that.",
+      "id": "2003484398973517937"
     }
   ]
 }

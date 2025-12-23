@@ -190,8 +190,6 @@ Context + liquidity + timing = a predictable scalp.
 ---
 Price action models are useless to anyone that hasn't really trained, studied, and did back testing.
 ---
-After a liquidity sweep, price often reverses—plan for that.
----
 Six years in—you finally grow into yourself as a trader.
 ---
 Don’t measure yourself against others—that stunts your growth.
