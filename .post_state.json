@@ -15,7 +15,8 @@
     "10:00",
     "13:30",
     "14:00",
-    "15:15"
+    "15:15",
+    "16:00"
   ],
   "log": [
     {
@@ -2217,6 +2218,11 @@
       "time": "2025-12-24T15:38:35.473965-05:00",
       "text": "Learn to locate high-probability liquidity pools.",
       "id": "2003928311806751142"
+    },
+    {
+      "time": "2025-12-24T16:12:19.116968-05:00",
+      "text": "If you don't have the understanding of liquidity, your trading is going to suffer from it.",
+      "id": "2003936799614230622"
     }
   ]
 }
