@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -2180,6 +2182,11 @@
       "time": "2025-12-23T16:13:07.532939-05:00",
       "text": "Retail sells \u2018resistance\u2019; smart money raids above it.",
       "id": "2003574614841246101"
+    },
+    {
+      "time": "2025-12-24T08:42:45.017013-05:00",
+      "text": "Trade the narrative: accumulation \u2192 manipulation \u2192 distribution to the next pool.",
+      "id": "2003823661933826455"
     }
   ]
 }
