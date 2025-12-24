@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -2193,6 +2194,11 @@
       "time": "2025-12-24T09:39:24.688485-05:00",
       "text": "Trading above the weekly open in a bearish week = overbought. Trading below the open in a bullish week = oversold.",
       "id": "2003837921221079215"
+    },
+    {
+      "time": "2025-12-24T10:14:14.964089-05:00",
+      "text": "Context + liquidity + timing = a predictable scalp.",
+      "id": "2003846688503464085"
     }
   ]
 }
