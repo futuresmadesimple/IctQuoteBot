@@ -883,3 +883,5 @@ Context + liquidity + timing = a predictable scalp.---
 Bias first; entries second.---
 # 2025-12-24 14:18:11 EST | POSTED | id=2003908077104373966
 For beginners, short-term or day trading gives the most useful feedback; skip scalping at first.---
+# 2025-12-24 15:38:35 EST | POSTED | id=2003928311806751142
+Learn to locate high-probability liquidity pools.---

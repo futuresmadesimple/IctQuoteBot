@@ -14,7 +14,8 @@
     "09:30",
     "10:00",
     "13:30",
-    "14:00"
+    "14:00",
+    "15:15"
   ],
   "log": [
     {
@@ -2211,6 +2212,11 @@
       "time": "2025-12-24T14:18:11.149999-05:00",
       "text": "For beginners, short-term or day trading gives the most useful feedback; skip scalping at first.",
       "id": "2003908077104373966"
+    },
+    {
+      "time": "2025-12-24T15:38:35.473965-05:00",
+      "text": "Learn to locate high-probability liquidity pools.",
+      "id": "2003928311806751142"
     }
   ]
 }
