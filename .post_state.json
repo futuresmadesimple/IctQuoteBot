@@ -13,7 +13,8 @@
     "08:30",
     "09:30",
     "10:00",
-    "13:30"
+    "13:30",
+    "14:00"
   ],
   "log": [
     {
@@ -2205,6 +2206,11 @@
       "time": "2025-12-24T13:47:10.352794-05:00",
       "text": "Bias first; entries second.",
       "id": "2003900271957536783"
+    },
+    {
+      "time": "2025-12-24T14:18:11.149999-05:00",
+      "text": "For beginners, short-term or day trading gives the most useful feedback; skip scalping at first.",
+      "id": "2003908077104373966"
     }
   ]
 }

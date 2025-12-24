@@ -881,3 +881,5 @@ Trading above the weekly open in a bearish week = overbought. Trading below the 
 Context + liquidity + timing = a predictable scalp.---
 # 2025-12-24 13:47:10 EST | POSTED | id=2003900271957536783
 Bias first; entries second.---
+# 2025-12-24 14:18:11 EST | POSTED | id=2003908077104373966
+For beginners, short-term or day trading gives the most useful feedback; skip scalping at first.---
