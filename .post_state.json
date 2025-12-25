@@ -12,7 +12,8 @@
   "posted": [
     "08:30",
     "09:30",
-    "10:00"
+    "10:00",
+    "13:30"
   ],
   "log": [
     {
@@ -2234,6 +2235,11 @@
       "time": "2025-12-25T10:13:42.937908-05:00",
       "text": "Zero heat entries come from planning, not luck.",
       "id": "2004208941945724938"
+    },
+    {
+      "time": "2025-12-25T13:47:10.803847-05:00",
+      "text": "Preserve capital first; preserve mental capital always.",
+      "id": "2004262662176154093"
     }
   ]
 }
