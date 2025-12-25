@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -2228,6 +2229,11 @@
       "time": "2025-12-25T09:39:16.047008-05:00",
       "text": "Ask: where would everyone else\u2019s trade idea fail?",
       "id": "2004200272894075369"
+    },
+    {
+      "time": "2025-12-25T10:13:42.937908-05:00",
+      "text": "Zero heat entries come from planning, not luck.",
+      "id": "2004208941945724938"
     }
   ]
 }
