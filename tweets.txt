@@ -276,8 +276,6 @@ You have to have rules: when should I do something, when should I expect a setup
 ---
 Currency prices are 100% controlled and manipulated by central banks.
 ---
-Trade soberly: target the least monthly end for a few months.
----
 Experience is going to guide you on how many candles really make up a consolidation.
 ---
 SMT is simply a divergence between closely correlated assets or markets.
