@@ -889,3 +889,5 @@ Learn to locate high-probability liquidity pools.---
 If you don't have the understanding of liquidity, your trading is going to suffer from it.---
 # 2025-12-25 08:42:19 EST | POSTED | id=2004185943306383579
 Build plateaus in equity by scaling down after losses, then scaling back up.---
+# 2025-12-25 09:39:16 EST | POSTED | id=2004200272894075369
+Ask: where would everyone else’s trade idea fail?---

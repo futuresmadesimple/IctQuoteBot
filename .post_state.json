@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "09:30"
   ],
   "log": [
     {
@@ -2222,6 +2223,11 @@
       "time": "2025-12-25T08:42:19.637193-05:00",
       "text": "Build plateaus in equity by scaling down after losses, then scaling back up.",
       "id": "2004185943306383579"
+    },
+    {
+      "time": "2025-12-25T09:39:16.047008-05:00",
+      "text": "Ask: where would everyone else\u2019s trade idea fail?",
+      "id": "2004200272894075369"
     }
   ]
 }
