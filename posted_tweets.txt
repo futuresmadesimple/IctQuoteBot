@@ -887,3 +887,5 @@ For beginners, short-term or day trading gives the most useful feedback; skip sc
 Learn to locate high-probability liquidity pools.---
 # 2025-12-24 16:12:19 EST | POSTED | id=2003936799614230622
 If you don't have the understanding of liquidity, your trading is going to suffer from it.---
+# 2025-12-25 08:42:19 EST | POSTED | id=2004185943306383579
+Build plateaus in equity by scaling down after losses, then scaling back up.---

@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -2215,6 +2217,11 @@
       "time": "2025-12-24T16:12:19.116968-05:00",
       "text": "If you don't have the understanding of liquidity, your trading is going to suffer from it.",
       "id": "2003936799614230622"
+    },
+    {
+      "time": "2025-12-25T08:42:19.637193-05:00",
+      "text": "Build plateaus in equity by scaling down after losses, then scaling back up.",
+      "id": "2004185943306383579"
     }
   ]
 }
