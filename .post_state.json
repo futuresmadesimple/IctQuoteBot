@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -2263,6 +2264,11 @@
       "time": "2025-12-26T09:40:05.817550-05:00",
       "text": "Avoid chasing parabolic equity surges.",
       "id": "2004562869506220490"
+    },
+    {
+      "time": "2025-12-26T10:14:02.001054-05:00",
+      "text": "Every model loses\u2014you\u2019re going to have to accept that.",
+      "id": "2004571409868034287"
     }
   ]
 }
