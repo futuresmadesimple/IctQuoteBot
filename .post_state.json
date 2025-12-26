@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -2250,6 +2252,11 @@
       "time": "2025-12-25T16:12:33.837013-05:00",
       "text": "I hate losing\u2014but I reduce risk after a loss instead of swinging harder.",
       "id": "2004299249073185105"
+    },
+    {
+      "time": "2025-12-26T08:43:20.562636-05:00",
+      "text": "Losses are part of the business transactions in this industry.",
+      "id": "2004548586676084974"
     }
   ]
 }
