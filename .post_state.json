@@ -12,7 +12,8 @@
   "posted": [
     "08:30",
     "09:30",
-    "10:00"
+    "10:00",
+    "13:30"
   ],
   "log": [
     {
@@ -2269,6 +2270,11 @@
       "time": "2025-12-26T10:14:02.001054-05:00",
       "text": "Every model loses\u2014you\u2019re going to have to accept that.",
       "id": "2004571409868034287"
+    },
+    {
+      "time": "2025-12-26T13:47:12.258182-05:00",
+      "text": "FOMC days are \u201cseek & destroy\u201d\u2014they raid both sides before expanding.",
+      "id": "2004625056127647872"
     }
   ]
 }
