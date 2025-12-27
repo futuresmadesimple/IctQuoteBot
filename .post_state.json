@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -2298,6 +2299,11 @@
       "time": "2025-12-27T09:36:56.820609-05:00",
       "text": "Day trading isn\u2019t every-day trading. Skip days without your setup.",
       "id": "2004924464560046561"
+    },
+    {
+      "time": "2025-12-27T10:12:19.797025-05:00",
+      "text": "Reduce risk as you get paid\u2014manage the trader as much as the trade.",
+      "id": "2004933369063215396"
     }
   ]
 }
