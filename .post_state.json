@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -2285,6 +2287,11 @@
       "time": "2025-12-26T16:12:10.887862-05:00",
       "text": "You can carve out income with this\u2014riches aren\u2019t the goal; consistency is.",
       "id": "2004661540620824672"
+    },
+    {
+      "time": "2025-12-27T08:36:38.295856-05:00",
+      "text": "Taking partials reduces risk while paying you.",
+      "id": "2004909287458648195"
     }
   ]
 }
