@@ -12,7 +12,8 @@
   "posted": [
     "08:30",
     "09:30",
-    "10:00"
+    "10:00",
+    "13:30"
   ],
   "log": [
     {
@@ -2304,6 +2305,11 @@
       "time": "2025-12-27T10:12:19.797025-05:00",
       "text": "Reduce risk as you get paid\u2014manage the trader as much as the trade.",
       "id": "2004933369063215396"
+    },
+    {
+      "time": "2025-12-27T13:45:28.047410-05:00",
+      "text": "Cut exposure when you\u2019re in drawdown; that\u2019s your staying power.",
+      "id": "2004987006791684436"
     }
   ]
 }
