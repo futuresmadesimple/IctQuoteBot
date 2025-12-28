@@ -13,7 +13,8 @@
     "08:30",
     "09:30",
     "10:00",
-    "13:30"
+    "13:30",
+    "14:00"
   ],
   "log": [
     {
@@ -2345,6 +2346,11 @@
       "time": "2025-12-28T13:46:07.405510-05:00",
       "text": "Limit the number of trades you take\u2014the more frequency, the more likely you're gonna lose.",
       "id": "2005349559728321015"
+    },
+    {
+      "time": "2025-12-28T14:40:54.546018-05:00",
+      "text": "Keep a study and trade schedule.",
+      "id": "2005363347126919318"
     }
   ]
 }
