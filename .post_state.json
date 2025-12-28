@@ -12,7 +12,8 @@
   "posted": [
     "08:30",
     "09:30",
-    "10:00"
+    "10:00",
+    "13:30"
   ],
   "log": [
     {
@@ -2339,6 +2340,11 @@
       "time": "2025-12-28T10:45:25.001051-05:00",
       "text": "You don\u2019t need perfection to be profitable; pursue alignment with order flow.",
       "id": "2005304083473637406"
+    },
+    {
+      "time": "2025-12-28T13:46:07.405510-05:00",
+      "text": "Limit the number of trades you take\u2014the more frequency, the more likely you're gonna lose.",
+      "id": "2005349559728321015"
     }
   ]
 }
