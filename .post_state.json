@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "09:30"
   ],
   "log": [
     {
@@ -2357,6 +2358,11 @@
       "time": "2025-12-29T08:51:25.528808-05:00",
       "text": "All boats rise with the tide\u2014if euro rallies, reasonably expect pound to rally as well.",
       "id": "2005637784506360018"
+    },
+    {
+      "time": "2025-12-29T09:42:22.352347-05:00",
+      "text": "Manage your family time and schedule it\u2014no markets, no charts, no Twitter.",
+      "id": "2005650605688467537"
     }
   ]
 }
