@@ -13,7 +13,8 @@
     "08:30",
     "09:30",
     "10:00",
-    "13:30"
+    "13:30",
+    "14:00"
   ],
   "log": [
     {
@@ -2375,6 +2376,11 @@
       "time": "2025-12-29T13:48:32.526386-05:00",
       "text": "Smart money concepts are not going to die out.",
       "id": "2005712556376134137"
+    },
+    {
+      "time": "2025-12-29T14:10:48.656959-05:00",
+      "text": "When structure shifts, expect retracements\u2014use them for new entries.",
+      "id": "2005718160524169624"
     }
   ]
 }
