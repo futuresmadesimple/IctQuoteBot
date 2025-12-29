@@ -15,7 +15,8 @@
     "10:00",
     "13:30",
     "14:00",
-    "15:15"
+    "15:15",
+    "16:00"
   ],
   "log": [
     {
@@ -2387,6 +2388,11 @@
       "time": "2025-12-29T15:15:31.964897-05:00",
       "text": "You\u2019ll grow your understanding as the characteristics repeat over and over again.",
       "id": "2005734448189620373"
+    },
+    {
+      "time": "2025-12-29T16:12:30.322303-05:00",
+      "text": "Daily highs and lows offer the potential for draws on liquidity\u2014buy stops above, sell stops below.",
+      "id": "2005748785947754721"
     }
   ]
 }
