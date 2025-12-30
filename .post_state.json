@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "09:30"
   ],
   "log": [
     {
@@ -2392,6 +2393,11 @@
       "time": "2025-12-30T09:14:00.853987-05:00",
       "text": "You cannot allow monthly ends to plague your decision making in trading.",
       "id": "2006005856970670268"
+    },
+    {
+      "time": "2025-12-30T09:41:47.616543-05:00",
+      "text": "Identify what negates your idea before you even put the trade on.",
+      "id": "2006012847893955050"
     }
   ]
 }
