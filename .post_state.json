@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -2385,6 +2387,11 @@
       "time": "2025-12-29T16:12:30.322303-05:00",
       "text": "Daily highs and lows offer the potential for draws on liquidity\u2014buy stops above, sell stops below.",
       "id": "2005748785947754721"
+    },
+    {
+      "time": "2025-12-30T09:14:00.853987-05:00",
+      "text": "You cannot allow monthly ends to plague your decision making in trading.",
+      "id": "2006005856970670268"
     }
   ]
 }
