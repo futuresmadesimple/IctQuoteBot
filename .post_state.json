@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -2398,6 +2399,11 @@
       "time": "2025-12-30T09:41:47.616543-05:00",
       "text": "Identify what negates your idea before you even put the trade on.",
       "id": "2006012847893955050"
+    },
+    {
+      "time": "2025-12-30T10:14:46.043674-05:00",
+      "text": "Be willing to lose\u2014and lose a lot\u2014early on. It's part of it.",
+      "id": "2006021145980489881"
     }
   ]
 }
