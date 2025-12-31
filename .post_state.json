@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -2410,6 +2412,11 @@
       "time": "2025-12-30T16:35:07.620555-05:00",
       "text": "Power of Three: accumulation, manipulation, distribution\u2014day after day.",
       "id": "2006116866649882974"
+    },
+    {
+      "time": "2025-12-31T09:14:07.364819-05:00",
+      "text": "Proof of concept comes before live funds.",
+      "id": "2006368272099275207"
     }
   ]
 }
