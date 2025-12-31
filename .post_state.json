@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "09:30"
   ],
   "log": [
     {
@@ -2417,6 +2418,11 @@
       "time": "2025-12-31T09:14:07.364819-05:00",
       "text": "Proof of concept comes before live funds.",
       "id": "2006368272099275207"
+    },
+    {
+      "time": "2025-12-31T09:39:26.721773-05:00",
+      "text": "Price moves to where orders reside\u2014above old highs and below old lows.",
+      "id": "2006374644828238012"
     }
   ]
 }
