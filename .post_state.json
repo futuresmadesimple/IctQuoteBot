@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -2423,6 +2424,11 @@
       "time": "2025-12-31T09:39:26.721773-05:00",
       "text": "Price moves to where orders reside\u2014above old highs and below old lows.",
       "id": "2006374644828238012"
+    },
+    {
+      "time": "2025-12-31T10:13:51.628744-05:00",
+      "text": "Don't change strategies while you're in a trade.",
+      "id": "2006383305659191747"
     }
   ]
 }
