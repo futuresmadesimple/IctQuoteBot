@@ -983,3 +983,5 @@ Price action models are useless to anyone that hasn't really trained, studied, a
 Before pulling the trigger, confirm there’s enough range to profit.---
 # 2026-01-01 13:48:12 EST | POSTED | id=2006799635491295253
 Trading without stops will make you lose money faster.---
+# 2026-01-01 14:50:57 EST | POSTED | id=2006815427956240425
+Most fair value gaps will not completely close on re-delivery of price.---

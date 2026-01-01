@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "13:30"
+    "13:30",
+    "14:00"
   ],
   "log": [
     {
@@ -2458,6 +2459,11 @@
       "time": "2026-01-01T13:48:12.375658-05:00",
       "text": "Trading without stops will make you lose money faster.",
       "id": "2006799635491295253"
+    },
+    {
+      "time": "2026-01-01T14:50:57.603766-05:00",
+      "text": "Most fair value gaps will not completely close on re-delivery of price.",
+      "id": "2006815427956240425"
     }
   ]
 }
