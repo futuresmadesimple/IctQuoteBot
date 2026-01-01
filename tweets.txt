@@ -32,8 +32,6 @@ We’re not trying to predict the reaction to the news—we wait for it to hit.
 ---
 Multiple losses do not prove your method is broken.
 ---
-Trading without stops will make you lose money faster.
----
 Institutions hunt counterparties—orders resting above highs and below lows.
 ---
 Wait for the market to show its hand—then trade with it.

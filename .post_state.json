@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "13:30"
   ],
   "log": [
     {
@@ -2452,6 +2453,11 @@
       "time": "2026-01-01T08:45:18.353331-05:00",
       "text": "Before pulling the trigger, confirm there\u2019s enough range to profit.",
       "id": "2006723408013250804"
+    },
+    {
+      "time": "2026-01-01T13:48:12.375658-05:00",
+      "text": "Trading without stops will make you lose money faster.",
+      "id": "2006799635491295253"
     }
   ]
 }
