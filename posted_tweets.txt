@@ -985,3 +985,5 @@ Before pulling the trigger, confirm there’s enough range to profit.---
 Trading without stops will make you lose money faster.---
 # 2026-01-01 14:50:57 EST | POSTED | id=2006815427956240425
 Most fair value gaps will not completely close on re-delivery of price.---
+# 2026-01-01 15:40:41 EST | POSTED | id=2006827943063130142
+Funded margin isn’t psychological readiness.---
