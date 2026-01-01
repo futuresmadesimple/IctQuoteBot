@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -2445,6 +2447,11 @@
       "time": "2025-12-31T16:33:49.040654-05:00",
       "text": "Price action models are useless to anyone that hasn't really trained, studied, and did back testing.",
       "id": "2006478924960657914"
+    },
+    {
+      "time": "2026-01-01T08:45:18.353331-05:00",
+      "text": "Before pulling the trigger, confirm there\u2019s enough range to profit.",
+      "id": "2006723408013250804"
     }
   ]
 }
