@@ -987,3 +987,5 @@ Trading without stops will make you lose money faster.---
 Most fair value gaps will not completely close on re-delivery of price.---
 # 2026-01-01 15:40:41 EST | POSTED | id=2006827943063130142
 Funded margin isn’t psychological readiness.---
+# 2026-01-01 16:12:48 EST | POSTED | id=2006836027416060322
+Project targets with measured swings and legs—and exit before the exact objective.---
