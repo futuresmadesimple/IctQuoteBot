@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -2483,6 +2484,11 @@
       "time": "2026-01-02T09:40:29.235118-05:00",
       "text": "Institutions hunt counterparties\u2014orders resting above highs and below lows.",
       "id": "2007099682602820001"
+    },
+    {
+      "time": "2026-01-02T10:14:29.083359-05:00",
+      "text": "Experience is going to guide you on how many candles really make up a consolidation.",
+      "id": "2007108238517432502"
     }
   ]
 }
