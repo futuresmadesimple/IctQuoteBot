@@ -12,7 +12,8 @@
   "posted": [
     "08:30",
     "09:30",
-    "10:00"
+    "10:00",
+    "13:30"
   ],
   "log": [
     {
@@ -2489,6 +2490,11 @@
       "time": "2026-01-02T10:14:29.083359-05:00",
       "text": "Experience is going to guide you on how many candles really make up a consolidation.",
       "id": "2007108238517432502"
+    },
+    {
+      "time": "2026-01-02T14:27:36.952804-05:00",
+      "text": "Off days and holidays: pour that time into your family.",
+      "id": "2007171941065429148"
     }
   ]
 }
