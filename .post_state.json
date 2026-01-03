@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -2500,6 +2502,11 @@
       "time": "2026-01-02T16:42:21.368297-05:00",
       "text": "Between entry and target lies the gray area\u2014get comfortable living there.",
       "id": "2007205849588961721"
+    },
+    {
+      "time": "2026-01-03T09:12:30.770373-05:00",
+      "text": "Recognition comes from study; you'll recognize it as it forms.",
+      "id": "2007455030635347977"
     }
   ]
 }
