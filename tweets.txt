@@ -192,8 +192,6 @@ Backtesting and studying old data makes every successful trader better.
 ---
 Be an independent thinking trader—not a codependent one.
 ---
-Backtest day of week and time of day—those windows frame the highest-probability entries.
----
 You have to have rules: when should I do something, when should I expect a setup to form?
 ---
 Currency prices are 100% controlled and manipulated by central banks.
