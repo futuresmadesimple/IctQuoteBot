@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "13:30"
   ],
   "log": [
     {
@@ -2537,6 +2538,11 @@
       "time": "2026-01-04T09:36:39.936483-05:00",
       "text": "The global interest rates are the fundamental driver that sets the tone for long-term macro price movement.",
       "id": "2007823496647151683"
+    },
+    {
+      "time": "2026-01-04T14:16:52.959514-05:00",
+      "text": "Your friends are only going to be interested once you start making money.",
+      "id": "2007894015727800797"
     }
   ]
 }
