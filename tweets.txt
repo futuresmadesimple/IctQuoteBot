@@ -150,8 +150,6 @@ If we’re bullish, there’s a 70% chance the low of the week forms on Monday, 
 ---
 Traders don’t push price; the algorithm does.
 ---
-Expect distribution into buy stops above the original consolidation in a buy model.
----
 If you can’t succeed on demo, you won’t succeed live.
 ---
 Always view TradingView through the lens of New York time, wherever you live.
