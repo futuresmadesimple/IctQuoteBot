@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -2530,6 +2532,11 @@
       "time": "2026-01-03T16:12:02.989270-05:00",
       "text": "Can you build wealth in trading? Absolutely\u2014but nobody starts there.",
       "id": "2007560610574115155"
+    },
+    {
+      "time": "2026-01-04T09:36:39.936483-05:00",
+      "text": "The global interest rates are the fundamental driver that sets the tone for long-term macro price movement.",
+      "id": "2007823496647151683"
     }
   ]
 }
