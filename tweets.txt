@@ -144,8 +144,6 @@ Traders don’t push price; the algorithm does.
 ---
 If you can’t succeed on demo, you won’t succeed live.
 ---
-Always view TradingView through the lens of New York time, wherever you live.
----
 After weekly objectives are met early, expect consolidation or deeper retracement.
 ---
 If you’re developing, stand aside on FOMC—the whipsaw will paralyze you.
