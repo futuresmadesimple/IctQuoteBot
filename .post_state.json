@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -2555,6 +2557,11 @@
       "time": "2026-01-04T17:12:59.438330-05:00",
       "text": "Think like a business owner, not a gambler.",
       "id": "2007938334664913025"
+    },
+    {
+      "time": "2026-01-05T08:57:54.989612-05:00",
+      "text": "Your family is not going to understand what you're trying to do.",
+      "id": "2008176133104119813"
     }
   ]
 }

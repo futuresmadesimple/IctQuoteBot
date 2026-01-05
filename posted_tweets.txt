@@ -1023,3 +1023,5 @@ Expect distribution into buy stops above the original consolidation in a buy mod
 The ‘draw on liquidity’ is real: price seeks pools of stops.---
 # 2026-01-04 17:12:59 EST | POSTED | id=2007938334664913025
 Think like a business owner, not a gambler.---
+# 2026-01-05 08:57:54 EST | POSTED | id=2008176133104119813
+Your family is not going to understand what you're trying to do.---
