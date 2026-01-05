@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -2568,6 +2569,11 @@
       "time": "2026-01-05T09:48:02.763607-05:00",
       "text": "Wait for the market to show its hand\u2014then trade with it.",
       "id": "2008188748547190787"
+    },
+    {
+      "time": "2026-01-05T10:00:21.524293-05:00",
+      "text": "Practice every single day, keep a backlog, and study it on the weekends.",
+      "id": "2008191847181525433"
     }
   ]
 }
