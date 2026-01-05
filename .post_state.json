@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "09:30"
   ],
   "log": [
     {
@@ -2562,6 +2563,11 @@
       "time": "2026-01-05T08:57:54.989612-05:00",
       "text": "Your family is not going to understand what you're trying to do.",
       "id": "2008176133104119813"
+    },
+    {
+      "time": "2026-01-05T09:48:02.763607-05:00",
+      "text": "Wait for the market to show its hand\u2014then trade with it.",
+      "id": "2008188748547190787"
     }
   ]
 }

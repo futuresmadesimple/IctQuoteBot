@@ -30,8 +30,6 @@ We’re not trying to predict the reaction to the news—we wait for it to hit.
 ---
 Multiple losses do not prove your method is broken.
 ---
-Wait for the market to show its hand—then trade with it.
----
 Give yourself permission to be wrong and allow yourself to grow.
 ---
 Build mini study journal cases—not live trades with real money.
