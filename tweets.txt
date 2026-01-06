@@ -126,8 +126,6 @@ The algorithm moves price when the time windows increase flows.
 ---
 Your lowest timeframe is for entries; your mid timeframe is for management; your highest builds the premise.
 ---
-The commitment of traders shows you a visual representation of what smart money is doing and how they’re positioned periodically.
----
 Change the state of mind from impossible to I’m possible.
 ---
 OTEs that align with kill zones are the A+ tickets.
