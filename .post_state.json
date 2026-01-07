@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -2625,6 +2627,11 @@
       "time": "2026-01-06T17:14:05.800188-05:00",
       "text": "Time and price theory blends the calendar clock with liquidity targets.",
       "id": "2008663388814037356"
+    },
+    {
+      "time": "2026-01-07T08:53:14.121071-05:00",
+      "text": "Build mini study journal cases\u2014not live trades with real money.",
+      "id": "2008899730718261507"
     }
   ]
 }
