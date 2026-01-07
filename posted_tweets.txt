@@ -1053,3 +1053,5 @@ Sometimes you're going to mess up, sometimes it's going to be wrong, and sometim
 Time and price theory blends the calendar clock with liquidity targets.---
 # 2026-01-07 08:53:14 EST | POSTED | id=2008899730718261507
 Build mini study journal cases—not live trades with real money.---
+# 2026-01-07 09:45:14 EST | POSTED | id=2008912816552464566
+Consider the negatives of forcing setups; impatience invites failure.---
