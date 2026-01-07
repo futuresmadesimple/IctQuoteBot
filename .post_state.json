@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -2638,6 +2639,11 @@
       "time": "2026-01-07T09:45:14.019551-05:00",
       "text": "Consider the negatives of forcing setups; impatience invites failure.",
       "id": "2008912816552464566"
+    },
+    {
+      "time": "2026-01-07T10:27:27.509790-05:00",
+      "text": "If you\u2019re developing, stand aside on FOMC\u2014the whipsaw will paralyze you.",
+      "id": "2008923442729345447"
     }
   ]
 }
