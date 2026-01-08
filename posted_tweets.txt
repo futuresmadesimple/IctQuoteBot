@@ -1075,3 +1075,5 @@ Stay with one framework and build a large sample set before you touch live funds
 Controlling risk is more important than the entry signal or the exit.---
 # 2026-01-08 14:13:50 EST | POSTED | id=2009342802186965357
 Backtesting and studying old data makes every successful trader better.---
+# 2026-01-08 15:16:11 EST | POSTED | id=2009358494861021289
+It's important not to try to swing for homeruns or take larger risk to try to grow your account faster—it's not necessary, it's reckless.---

@@ -128,8 +128,6 @@ Study the relationship of time and price; time comes first.
 ---
 When a level is swept, ask “where is the opposing liquidity?” and aim there.
 ---
-It's important not to try to swing for homeruns or take larger risk to try to grow your account faster—it's not necessary, it's reckless.
----
 Three entry tools matter: stop runs, order blocks, and optimal trade entry.
 ---
 Be an independent thinking trader—not a codependent one.
