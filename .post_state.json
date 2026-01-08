@@ -12,7 +12,8 @@
   "posted": [
     "08:30",
     "09:30",
-    "10:00"
+    "10:00",
+    "13:30"
   ],
   "log": [
     {
@@ -2679,6 +2680,11 @@
       "time": "2026-01-08T10:37:34.406173-05:00",
       "text": "Stay with one framework and build a large sample set before you touch live funds.",
       "id": "2009288376084492525"
+    },
+    {
+      "time": "2026-01-08T13:48:26.473770-05:00",
+      "text": "Controlling risk is more important than the entry signal or the exit.",
+      "id": "2009336409631674867"
     }
   ]
 }
