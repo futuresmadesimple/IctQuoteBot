@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "09:30"
   ],
   "log": [
     {
@@ -2667,6 +2668,11 @@
       "time": "2026-01-08T08:54:35.169884-05:00",
       "text": "You\u2019re investing in yourself with a plan of action.",
       "id": "2009262458553131115"
+    },
+    {
+      "time": "2026-01-08T10:00:57.206520-05:00",
+      "text": "If you\u2019re chasing every candle, you\u2019re the liquidity.",
+      "id": "2009279159533523377"
     }
   ]
 }
