@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -2673,6 +2674,11 @@
       "time": "2026-01-08T10:00:57.206520-05:00",
       "text": "If you\u2019re chasing every candle, you\u2019re the liquidity.",
       "id": "2009279159533523377"
+    },
+    {
+      "time": "2026-01-08T10:37:34.406173-05:00",
+      "text": "Stay with one framework and build a large sample set before you touch live funds.",
+      "id": "2009288376084492525"
     }
   ]
 }
