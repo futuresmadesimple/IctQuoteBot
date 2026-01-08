@@ -1077,3 +1077,5 @@ Controlling risk is more important than the entry signal or the exit.---
 Backtesting and studying old data makes every successful trader better.---
 # 2026-01-08 15:16:11 EST | POSTED | id=2009358494861021289
 It's important not to try to swing for homeruns or take larger risk to try to grow your account faster—it's not necessary, it's reckless.---
+# 2026-01-08 16:14:09 EST | POSTED | id=2009373080926220688
+Use time and price together: act when your level and the kill zone line up.---

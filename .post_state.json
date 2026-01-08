@@ -15,7 +15,8 @@
     "10:00",
     "13:30",
     "14:00",
-    "15:15"
+    "15:15",
+    "16:00"
   ],
   "log": [
     {
@@ -2697,6 +2698,11 @@
       "time": "2026-01-08T15:16:11.999649-05:00",
       "text": "It's important not to try to swing for homeruns or take larger risk to try to grow your account faster\u2014it's not necessary, it's reckless.",
       "id": "2009358494861021289"
+    },
+    {
+      "time": "2026-01-08T16:14:09.623917-05:00",
+      "text": "Use time and price together: act when your level and the kill zone line up.",
+      "id": "2009373080926220688"
     }
   ]
 }
