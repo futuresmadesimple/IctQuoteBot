@@ -132,8 +132,6 @@ It's important not to try to swing for homeruns or take larger risk to try to gr
 ---
 Three entry tools matter: stop runs, order blocks, and optimal trade entry.
 ---
-Backtesting and studying old data makes every successful trader better.
----
 Be an independent thinking trader—not a codependent one.
 ---
 You have to have rules: when should I do something, when should I expect a setup to form?
