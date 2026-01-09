@@ -12,7 +12,8 @@
   "posted": [
     "08:30",
     "09:30",
-    "10:00"
+    "10:00",
+    "13:30"
   ],
   "log": [
     {
@@ -2714,6 +2715,11 @@
       "time": "2026-01-09T10:22:41.163576-05:00",
       "text": "Many treat funded challenges like a lottery.",
       "id": "2009647017417400716"
+    },
+    {
+      "time": "2026-01-09T13:50:54.516143-05:00",
+      "text": "Control the amount of money you put up\u2014and control yourself.",
+      "id": "2009699418409234708"
     }
   ]
 }
