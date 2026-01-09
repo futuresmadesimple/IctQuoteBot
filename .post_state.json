@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -2695,6 +2697,11 @@
       "time": "2026-01-08T16:14:09.623917-05:00",
       "text": "Use time and price together: act when your level and the kill zone line up.",
       "id": "2009373080926220688"
+    },
+    {
+      "time": "2026-01-09T08:51:44.972880-05:00",
+      "text": "When you have income streams, confidence doesn\u2019t translate into over-leveraged trading.",
+      "id": "2009624132619764007"
     }
   ]
 }
