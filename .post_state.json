@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "09:30"
   ],
   "log": [
     {
@@ -2702,6 +2703,11 @@
       "time": "2026-01-09T08:51:44.972880-05:00",
       "text": "When you have income streams, confidence doesn\u2019t translate into over-leveraged trading.",
       "id": "2009624132619764007"
+    },
+    {
+      "time": "2026-01-09T09:44:15.711425-05:00",
+      "text": "In a bullish week, buy at or below the opening price each day.",
+      "id": "2009637347667894638"
     }
   ]
 }
