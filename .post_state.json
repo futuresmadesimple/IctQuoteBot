@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -2730,6 +2732,11 @@
       "time": "2026-01-09T16:14:04.460657-05:00",
       "text": "Taking profits is personal\u2014you'll spend the rest of your life mastering that and never arriving at mastery.",
       "id": "2009735447212081265"
+    },
+    {
+      "time": "2026-01-10T08:37:41.861713-05:00",
+      "text": "If it doesn\u2019t set up in your window, it\u2019s not your trade.",
+      "id": "2009982984208756939"
     }
   ]
 }
