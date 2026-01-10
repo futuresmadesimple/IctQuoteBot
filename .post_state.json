@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -2743,6 +2744,11 @@
       "time": "2026-01-10T09:37:27.997176-05:00",
       "text": "Be more disciplined\u2014the discipline will keep you rooted in sober thinking.",
       "id": "2009998025188692088"
+    },
+    {
+      "time": "2026-01-10T10:12:39.125855-05:00",
+      "text": "Banks target yesterday\u2019s highs/lows. Your job: ride the run on liquidity.",
+      "id": "2010006880287101077"
     }
   ]
 }
