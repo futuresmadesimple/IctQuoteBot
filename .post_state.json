@@ -12,7 +12,8 @@
   "posted": [
     "08:30",
     "09:30",
-    "10:00"
+    "10:00",
+    "13:30"
   ],
   "log": [
     {
@@ -2749,6 +2750,11 @@
       "time": "2026-01-10T10:12:39.125855-05:00",
       "text": "Banks target yesterday\u2019s highs/lows. Your job: ride the run on liquidity.",
       "id": "2010006880287101077"
+    },
+    {
+      "time": "2026-01-10T13:46:21.517281-05:00",
+      "text": "List out all of your monthly ends\u2014the bills you have to make every single month\u2014and trim what\u2019s not essential.",
+      "id": "2010060661284286593"
     }
   ]
 }
