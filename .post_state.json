@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -2778,6 +2779,11 @@
       "time": "2026-01-11T09:37:56.532238-05:00",
       "text": "The algorithm moves price when the time windows increase flows.",
       "id": "2010360533082673398"
+    },
+    {
+      "time": "2026-01-11T10:13:03.297877-05:00",
+      "text": "Scale profits\u2014and learn how to make money even when you\u2019re wrong.",
+      "id": "2010369369474269553"
     }
   ]
 }
