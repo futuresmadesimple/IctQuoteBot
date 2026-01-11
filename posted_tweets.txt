@@ -1115,3 +1115,5 @@ The algorithm moves price when the time windows increase flows.---
 Scale profits—and learn how to make money even when you’re wrong.---
 # 2026-01-11 13:46:38 EST | POSTED | id=2010423119589368034
 Don’t let the market steal your life.---
+# 2026-01-11 14:16:35 EST | POSTED | id=2010430659492237367
+There’s no better way to learn than applying the model to a live chart and watching it unfold.---
