@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "09:30"
   ],
   "log": [
     {
@@ -2772,6 +2773,11 @@
       "time": "2026-01-11T08:39:58.495989-05:00",
       "text": "Above the weekly open is where smart money distributes when the higher time frame is bearish.",
       "id": "2010345945112752587"
+    },
+    {
+      "time": "2026-01-11T09:37:56.532238-05:00",
+      "text": "The algorithm moves price when the time windows increase flows.",
+      "id": "2010360533082673398"
     }
   ]
 }
