@@ -12,7 +12,8 @@
   "posted": [
     "08:30",
     "09:30",
-    "10:00"
+    "10:00",
+    "13:30"
   ],
   "log": [
     {
@@ -2819,6 +2820,11 @@
       "time": "2026-01-12T10:18:34.845461-05:00",
       "text": "When a level is swept, ask \u201cwhere is the opposing liquidity?\u201d and aim there.",
       "id": "2010733147982274602"
+    },
+    {
+      "time": "2026-01-12T13:57:41.069094-05:00",
+      "text": "Lower your expenses and start preparing to think like a business owner.",
+      "id": "2010788287196319808"
     }
   ]
 }
