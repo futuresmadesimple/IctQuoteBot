@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -2813,6 +2814,11 @@
       "time": "2026-01-12T09:55:07.665656-05:00",
       "text": "Approach your life as a business and run your life as a business.",
       "id": "2010727245753770167"
+    },
+    {
+      "time": "2026-01-12T10:18:34.845461-05:00",
+      "text": "When a level is swept, ask \u201cwhere is the opposing liquidity?\u201d and aim there.",
+      "id": "2010733147982274602"
     }
   ]
 }
