@@ -12,7 +12,8 @@
   "posted": [
     "08:30",
     "09:30",
-    "10:00"
+    "10:00",
+    "13:30"
   ],
   "log": [
     {
@@ -2854,6 +2855,11 @@
       "time": "2026-01-13T10:17:03.378557-05:00",
       "text": "Focus right away just trading the New York session\u2014it\u2019s going to be the easiest one.",
       "id": "2011095152190767123"
+    },
+    {
+      "time": "2026-01-13T13:56:14.406465-05:00",
+      "text": "You don\u2019t get good at big leverage by funding bigger; you condition yourself over time with little.",
+      "id": "2011150311562346634"
     }
   ]
 }
