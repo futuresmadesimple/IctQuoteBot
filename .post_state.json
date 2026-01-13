@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -2835,6 +2837,11 @@
       "time": "2026-01-12T16:14:38.047404-05:00",
       "text": "I\u2019m not here to look smart\u2014I got into this to make money and not work the rest of my life.",
       "id": "2010822751712375104"
+    },
+    {
+      "time": "2026-01-13T08:58:34.604040-05:00",
+      "text": "Decide who you are\u2014position trader, swing trader, short-term, day trader, or scalper\u2014before you decide what to do.",
+      "id": "2011075402198929510"
     }
   ]
 }
