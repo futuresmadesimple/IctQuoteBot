@@ -13,7 +13,8 @@
     "08:30",
     "09:30",
     "10:00",
-    "13:30"
+    "13:30",
+    "14:00"
   ],
   "log": [
     {
@@ -2860,6 +2861,11 @@
       "time": "2026-01-13T13:56:14.406465-05:00",
       "text": "You don\u2019t get good at big leverage by funding bigger; you condition yourself over time with little.",
       "id": "2011150311562346634"
+    },
+    {
+      "time": "2026-01-13T14:17:05.129282-05:00",
+      "text": "OTEs that align with kill zones are the A+ tickets.",
+      "id": "2011155557516820935"
     }
   ]
 }
