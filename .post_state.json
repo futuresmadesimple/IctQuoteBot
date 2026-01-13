@@ -14,7 +14,8 @@
     "09:30",
     "10:00",
     "13:30",
-    "14:00"
+    "14:00",
+    "15:15"
   ],
   "log": [
     {
@@ -2866,6 +2867,11 @@
       "time": "2026-01-13T14:17:05.129282-05:00",
       "text": "OTEs that align with kill zones are the A+ tickets.",
       "id": "2011155557516820935"
+    },
+    {
+      "time": "2026-01-13T15:16:30.995219-05:00",
+      "text": "Time of day, in concert with bias, puts you in the highest order of probability.",
+      "id": "2011170513838629044"
     }
   ]
 }
