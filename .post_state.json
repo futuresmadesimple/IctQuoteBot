@@ -15,7 +15,8 @@
     "10:00",
     "13:30",
     "14:00",
-    "15:15"
+    "15:15",
+    "16:00"
   ],
   "log": [
     {
@@ -2907,6 +2908,11 @@
       "time": "2026-01-14T15:40:05.893285-05:00",
       "text": "SMT is simply a divergence between closely correlated assets or markets.",
       "id": "2011538836182966520"
+    },
+    {
+      "time": "2026-01-14T16:14:12.858690-05:00",
+      "text": "Time first, then price\u2014calendar and clock anchor the setup.",
+      "id": "2011547421847769256"
     }
   ]
 }
