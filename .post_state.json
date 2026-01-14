@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -2870,6 +2872,11 @@
       "time": "2026-01-13T16:15:37.949467-05:00",
       "text": "Three entry tools matter: stop runs, order blocks, and optimal trade entry.",
       "id": "2011185390816747684"
+    },
+    {
+      "time": "2026-01-14T08:54:39.545936-05:00",
+      "text": "London close often marks the opposite end of the daily range.",
+      "id": "2011436804151345387"
     }
   ]
 }
