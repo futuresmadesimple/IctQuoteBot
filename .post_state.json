@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -2918,6 +2919,11 @@
       "time": "2026-01-15T09:45:07.665247-05:00",
       "text": "Weather series of consecutive losses; every trader suffers drawdown.",
       "id": "2011811892856324519"
+    },
+    {
+      "time": "2026-01-15T10:28:46.606564-05:00",
+      "text": "You have to seek your own approval by your own study and your own development.",
+      "id": "2011822877360656665"
     }
   ]
 }
