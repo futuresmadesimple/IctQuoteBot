@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -2905,6 +2907,11 @@
       "time": "2026-01-14T16:14:12.858690-05:00",
       "text": "Time first, then price\u2014calendar and clock anchor the setup.",
       "id": "2011547421847769256"
+    },
+    {
+      "time": "2026-01-15T08:54:09.558066-05:00",
+      "text": "Perfection isn\u2019t required; discipline is.",
+      "id": "2011799065852350857"
     }
   ]
 }
