@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "13:30"
   ],
   "log": [
     {
@@ -2953,6 +2954,11 @@
       "time": "2026-01-16T09:44:14.279338-05:00",
       "text": "How much do I need to start trading? You answer that, but my canned response is two times your monthly income.",
       "id": "2012174056775160151"
+    },
+    {
+      "time": "2026-01-16T13:51:39.253912-05:00",
+      "text": "What if you stop worrying about losing and focus on how to manage the money and the risk.",
+      "id": "2012236321083797547"
     }
   ]
 }
