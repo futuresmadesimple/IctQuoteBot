@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "09:30"
   ],
   "log": [
     {
@@ -2947,6 +2948,11 @@
       "time": "2026-01-16T08:52:05.238009-05:00",
       "text": "Stop worrying about the money\u2014scared money makes no money.",
       "id": "2012160932659806531"
+    },
+    {
+      "time": "2026-01-16T09:44:14.279338-05:00",
+      "text": "How much do I need to start trading? You answer that, but my canned response is two times your monthly income.",
+      "id": "2012174056775160151"
     }
   ]
 }
