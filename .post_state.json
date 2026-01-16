@@ -12,7 +12,8 @@
   "posted": [
     "08:30",
     "09:30",
-    "13:30"
+    "13:30",
+    "14:00"
   ],
   "log": [
     {
@@ -2959,6 +2960,11 @@
       "time": "2026-01-16T13:51:39.253912-05:00",
       "text": "What if you stop worrying about losing and focus on how to manage the money and the risk.",
       "id": "2012236321083797547"
+    },
+    {
+      "time": "2026-01-16T14:15:10.996127-05:00",
+      "text": "Demo is not live\u2014it's a different world.",
+      "id": "2012242242296050137"
     }
   ]
 }
