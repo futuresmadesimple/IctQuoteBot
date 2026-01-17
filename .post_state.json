@@ -11,7 +11,8 @@
   ],
   "posted": [
     "08:30",
-    "09:30"
+    "09:30",
+    "10:00"
   ],
   "log": [
     {
@@ -2983,6 +2984,11 @@
       "time": "2026-01-17T09:37:25.244727-05:00",
       "text": "Strip the chart down and focus on the four price levels: the open, the high, the low, and the close.",
       "id": "2012534728922959894"
+    },
+    {
+      "time": "2026-01-17T10:12:47.244078-05:00",
+      "text": "If we\u2019re bullish, there\u2019s a 70% chance the low of the week forms on Monday, Tuesday, or by Wednesday\u2019s New York session.",
+      "id": "2012543629282160791"
     }
   ]
 }
