@@ -9,7 +9,9 @@
     "15:15",
     "16:00"
   ],
-  "posted": [],
+  "posted": [
+    "08:30"
+  ],
   "log": [
     {
       "time": "2025-10-19T17:28:09.618086-04:00",
@@ -2970,6 +2972,11 @@
       "time": "2026-01-16T16:13:50.108033-05:00",
       "text": "Pressure from the real world makes you abandon rules and over-leverage.",
       "id": "2012272102095704248"
+    },
+    {
+      "time": "2026-01-17T08:37:10.082034-05:00",
+      "text": "Traders don\u2019t push price; the algorithm does.",
+      "id": "2012519565969043903"
     }
   ]
 }
