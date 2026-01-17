@@ -12,7 +12,8 @@
   "posted": [
     "08:30",
     "09:30",
-    "10:00"
+    "10:00",
+    "13:30"
   ],
   "log": [
     {
@@ -2989,6 +2990,11 @@
       "time": "2026-01-17T10:12:47.244078-05:00",
       "text": "If we\u2019re bullish, there\u2019s a 70% chance the low of the week forms on Monday, Tuesday, or by Wednesday\u2019s New York session.",
       "id": "2012543629282160791"
+    },
+    {
+      "time": "2026-01-17T13:46:00.564822-05:00",
+      "text": "There is no perfect trader and no perfect system\u2014losses are part of this business.",
+      "id": "2012597288388976946"
     }
   ]
 }
