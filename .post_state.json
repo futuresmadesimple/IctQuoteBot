@@ -15,7 +15,8 @@
     "10:00",
     "13:30",
     "14:00",
-    "15:15"
+    "15:15",
+    "16:00"
   ],
   "log": [
     {
@@ -3007,6 +3008,11 @@
       "time": "2026-01-17T15:37:53.973322-05:00",
       "text": "We\u2019re not trying to predict the reaction to the news\u2014we wait for it to hit.",
       "id": "2012625446471373140"
+    },
+    {
+      "time": "2026-01-17T16:11:57.195491-05:00",
+      "text": "If you can\u2019t succeed on demo, you won\u2019t succeed live.",
+      "id": "2012634016361439574"
     }
   ]
 }
