@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "09:30"
   ],
   "log": [
     {
@@ -2977,6 +2978,11 @@
       "time": "2026-01-17T08:37:10.082034-05:00",
       "text": "Traders don\u2019t push price; the algorithm does.",
       "id": "2012519565969043903"
+    },
+    {
+      "time": "2026-01-17T09:37:25.244727-05:00",
+      "text": "Strip the chart down and focus on the four price levels: the open, the high, the low, and the close.",
+      "id": "2012534728922959894"
     }
   ]
 }
