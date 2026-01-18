@@ -13,7 +13,8 @@
     "08:30",
     "09:30",
     "10:00",
-    "13:30"
+    "13:30",
+    "14:00"
   ],
   "log": [
     {
@@ -3030,6 +3031,11 @@
       "time": "2026-01-18T13:45:14.206013-05:00",
       "text": "Be patient with drawdown recovery\u2014don\u2019t try to get it back in one trade.",
       "id": "2012959481785909347"
+    },
+    {
+      "time": "2026-01-18T14:12:53.632996-05:00",
+      "text": "Markets can become self-medication\u2014don\u2019t chase the dopamine hit.",
+      "id": "2012966441872408997"
     }
   ]
 }
