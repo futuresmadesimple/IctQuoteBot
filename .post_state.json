@@ -15,7 +15,8 @@
     "10:00",
     "13:30",
     "14:00",
-    "15:15"
+    "15:15",
+    "16:00"
   ],
   "log": [
     {
@@ -3042,6 +3043,11 @@
       "time": "2026-01-18T15:15:06.115452-05:00",
       "text": "As long as you have internet and equity, you can eat\u2014keep it simple and disciplined.",
       "id": "2012982097112121820"
+    },
+    {
+      "time": "2026-01-18T16:11:57.180150-05:00",
+      "text": "You\u2019re not trying to go against momentum\u2014you\u2019re trying to get in sync with institutional order flow.",
+      "id": "2012996404159906046"
     }
   ]
 }
