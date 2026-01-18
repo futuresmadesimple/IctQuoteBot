@@ -1203,3 +1203,5 @@ Avoid large risk for large wins.---
 We’re not trying to predict the reaction to the news—we wait for it to hit.---
 # 2026-01-17 16:11:57 EST | POSTED | id=2012634016361439574
 If you can’t succeed on demo, you won’t succeed live.---
+# 2026-01-18 08:37:41 EST | POSTED | id=2012882084378055107
+Be an independent thinking trader—not a codependent one.---
