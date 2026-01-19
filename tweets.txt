@@ -22,5 +22,3 @@ You have to have rules: when should I do something, when should I expect a setup
 ---
 Protect your rules; they protect your account.
 ---
-Build good habits and remove the opportunity to fall into bad habits.
----
