@@ -10,7 +10,8 @@
     "16:00"
   ],
   "posted": [
-    "08:30"
+    "08:30",
+    "09:30"
   ],
   "log": [
     {
@@ -3082,6 +3083,11 @@
       "time": "2026-01-20T09:02:12.342811-05:00",
       "text": "Use your journal for positive, constructive notes\u2014no toxic thinking.",
       "id": "2013613030420938818"
+    },
+    {
+      "time": "2026-01-20T09:47:49.260409-05:00",
+      "text": "Protect your access to the funded account\u2014follow the rules.",
+      "id": "2013624509933461566"
     }
   ]
 }
