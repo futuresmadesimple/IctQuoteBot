@@ -14,7 +14,8 @@
     "09:30",
     "10:00",
     "13:30",
-    "14:00"
+    "14:00",
+    "15:15"
   ],
   "log": [
     {
@@ -3106,6 +3107,11 @@
       "time": "2026-01-20T14:57:56.345034-05:00",
       "text": "What\u2019s your routine\u2014daily and weekly\u2014and how do you handle drawdown?",
       "id": "2013702553695850832"
+    },
+    {
+      "time": "2026-01-20T15:40:55.192094-05:00",
+      "text": "Adding more money after a bad week isn\u2019t the answer\u2014discipline is.",
+      "id": "2013713370235707698"
     }
   ]
 }
