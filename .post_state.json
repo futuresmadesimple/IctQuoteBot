@@ -12,7 +12,8 @@
   "posted": [
     "08:30",
     "09:30",
-    "10:00"
+    "10:00",
+    "13:30"
   ],
   "log": [
     {
@@ -3094,6 +3095,11 @@
       "time": "2026-01-20T10:15:54.038426-05:00",
       "text": "Trust yourself; don\u2019t outsource risk decisions to strangers.",
       "id": "2013631576374964622"
+    },
+    {
+      "time": "2026-01-20T13:41:55.926377-05:00",
+      "text": "Before strong directional moves, opposing stops are taken, then price is allowed to deliver.",
+      "id": "2013683425882849517"
     }
   ]
 }
