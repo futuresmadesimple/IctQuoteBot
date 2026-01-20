@@ -13,7 +13,8 @@
     "08:30",
     "09:30",
     "10:00",
-    "13:30"
+    "13:30",
+    "14:00"
   ],
   "log": [
     {
@@ -3100,6 +3101,11 @@
       "time": "2026-01-20T13:41:55.926377-05:00",
       "text": "Before strong directional moves, opposing stops are taken, then price is allowed to deliver.",
       "id": "2013683425882849517"
+    },
+    {
+      "time": "2026-01-20T14:57:56.345034-05:00",
+      "text": "What\u2019s your routine\u2014daily and weekly\u2014and how do you handle drawdown?",
+      "id": "2013702553695850832"
     }
   ]
 }
