@@ -1,9 +1,6 @@
-name: X Post-Only Bot (12/day, 6am–10pm ET)
+name: X Post-Only Bot (manual only)
 
 on:
-  schedule:
-    # Every ~20m covering 06:00–22:59 ET (10:00–02:59 UTC split)
-    - cron: "*/12 6-23 * * *"
   workflow_dispatch:
 
 permissions:
@@ -45,9 +42,9 @@ jobs:
 
           # Optional tuning (matches your bot defaults)
           SLOTS_PER_DAY: "7"
-          START_HOUR:    "7"    # 07:00 ET
-          END_HOUR:      "21"   # 21:59 ET window
-          WINDOW_MIN:    "75"   # 30-minute posting window
+          START_HOUR:    "7"
+          END_HOUR:      "21"
+          WINDOW_MIN:    "75"
         run: python -u bot_run.py
 
       - name: Commit state & tweets file (only if changed)
@@ -58,4 +55,3 @@ jobs:
           git add .post_state.json tweets.txt posted_tweets.txt posted.jsonl || true
           git diff --cached --quiet || git commit -m "post-bot: update state/content"
           git push || true
-
