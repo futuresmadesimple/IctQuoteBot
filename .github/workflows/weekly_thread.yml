@@ -3,15 +3,13 @@ permissions:
   contents: write
 
 on:
-  schedule:
-    - cron: '0 22 * * 0'   # Sundays 22:00 UTC ≈ 6:00p ET during DST (~5:00p ET in Standard Time)
   workflow_dispatch:
 
 jobs:
   weekly-thread:
     runs-on: ubuntu-latest
     concurrency:
-      group: repo-logs            # serialize pushes across workflows
+      group: repo-logs
       cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
